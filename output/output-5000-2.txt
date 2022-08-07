@@ -1,0 +1,2340 @@
+Other error occurred: No road found for -9.826929105910665,37.49808233902304 (ZERO_RESULTS)
+No road found for -9.826929105910665,37.49808233902304
+Other error occurred: No road found for 40.99098116206629,127.62879473406996 (ZERO_RESULTS)
+No road found for 40.99098116206629,127.62879473406996
+Other error occurred: No road found for -52.775296493498054,99.5347959999341 (ZERO_RESULTS)
+No road found for -52.775296493498054,99.5347959999341
+Other error occurred: No road found for 31.36323700297207,44.41932085055687 (ZERO_RESULTS)
+No road found for 31.36323700297207,44.41932085055687
+Other error occurred: No road found for 1.7784293804283315,143.23000691672706 (ZERO_RESULTS)
+No road found for 1.7784293804283315,143.23000691672706
+Other error occurred: No road found for -34.496965242626906,46.38077081540148 (ZERO_RESULTS)
+No road found for -34.496965242626906,46.38077081540148
+Other error occurred: No road found for 53.399149095587134,93.7648518783545 (ZERO_RESULTS)
+No road found for 53.399149095587134,93.7648518783545
+Other error occurred: No road found for -38.3089717928403,130.62198956128523 (ZERO_RESULTS)
+No road found for -38.3089717928403,130.62198956128523
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 6.3139395,36.8949171, (ZERO_RESULTS)
+No streetview found for any option: [(6.3139395, 36.8949171)]
+Other error occurred: No road found for 27.32425000701028,137.91229819849693 (ZERO_RESULTS)
+No road found for 27.32425000701028,137.91229819849693
+Other error occurred: No road found for -51.71917895942285,73.32657914066272 (ZERO_RESULTS)
+No road found for -51.71917895942285,73.32657914066272
+Other error occurred: No road found for 44.470887532577635,56.2828221892713 (ZERO_RESULTS)
+No road found for 44.470887532577635,56.2828221892713
+Other error occurred: No road found for -14.358657914145923,142.11660318475273 (ZERO_RESULTS)
+No road found for -14.358657914145923,142.11660318475273
+Other error occurred: No road found for -19.700935960931496,39.13991079484234 (ZERO_RESULTS)
+No road found for -19.700935960931496,39.13991079484234
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 47.995017,117.7556378, (ZERO_RESULTS)
+No streetview found for any option: [(47.995017, 117.7556378)]
+Other error occurred: No road found for -49.461945517996725,114.4578551752071 (ZERO_RESULTS)
+No road found for -49.461945517996725,114.4578551752071
+Other error occurred: No road found for 22.248673726628702,39.84013386345862 (ZERO_RESULTS)
+No road found for 22.248673726628702,39.84013386345862
+Other error occurred: No road found for 11.789092927552499,142.71857098808277 (ZERO_RESULTS)
+No road found for 11.789092927552499,142.71857098808277
+Other error occurred: No road found for -42.73957886201109,53.56663264336047 (ZERO_RESULTS)
+No road found for -42.73957886201109,53.56663264336047
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 52.790114,77.2265839, (ZERO_RESULTS)
+No streetview found for any option: [(52.790114, 77.2265839)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -29.8262598,137.0595416, (ZERO_RESULTS)
+No streetview found for any option: [(-29.8262598, 137.0595416)]
+Other error occurred: No road found for -3.7104933260309,36.35199457275389 (ZERO_RESULTS)
+No road found for -3.7104933260309,36.35199457275389
+Other error occurred: No road found for 36.37756962985992,132.9061173235036 (ZERO_RESULTS)
+No road found for 36.37756962985992,132.9061173235036
+Other error occurred: No road found for -53.97252962963507,89.3954373982259 (ZERO_RESULTS)
+No road found for -53.97252962963507,89.3954373982259
+Other error occurred: No road found for 37.009873779662456,47.51609565626306 (ZERO_RESULTS)
+No road found for 37.009873779662456,47.51609565626306
+Other error occurred: No road found for -4.434499647396492,143.7247009395492 (ZERO_RESULTS)
+No road found for -4.434499647396492,143.7247009395492
+Other error occurred: No road found for -29.2747261794656,42.43500996628322 (ZERO_RESULTS)
+No road found for -29.2747261794656,42.43500996628322
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 52.7982244,104.0053262, (ZERO_RESULTS)
+No streetview found for any option: [(52.7982244, 104.0053262)]
+Other error occurred: No road found for -43.45662139931068,126.05396399196556 (ZERO_RESULTS)
+No road found for -43.45662139931068,126.05396399196556
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 12.5530916,37.0523965, (ZERO_RESULTS)
+No streetview found for any option: [(12.5530916, 37.0523965)]
+Other error occurred: No road found for 21.679725458156156,140.79517809171 (ZERO_RESULTS)
+No road found for 21.679725458156156,140.79517809171
+Other error occurred: No road found for -49.47295710342712,64.24448839865589 (ZERO_RESULTS)
+No road found for -49.47295710342712,64.24448839865589
+Other error occurred: No road found for 48.83480931210851,62.69637396859115 (ZERO_RESULTS)
+No road found for 48.83480931210851,62.69637396859115
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -20.5556887,141.2379451, (ZERO_RESULTS)
+No streetview found for any option: [(-20.5556887, 141.2379451)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -13.7662859,37.1045778, (ZERO_RESULTS)
+No streetview found for any option: [(-13.7662859, 37.1045778)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 44.4599237,125.0960057, (ZERO_RESULTS)
+No streetview found for any option: [(44.4599237, 125.0960057)]
+Other error occurred: No road found for -52.65899027781897,106.00438843428549 (ZERO_RESULTS)
+No road found for -52.65899027781897,106.00438843428549
+Other error occurred: No road found for 28.29266089106377,41.567612135405795 (ZERO_RESULTS)
+No road found for 28.29266089106377,41.567612135405795
+Other error occurred: No road found for 5.663674446785064,144.01686069207395 (ZERO_RESULTS)
+No road found for 5.663674446785064,144.01686069207395
+Other error occurred: No road found for -38.245785660464485,47.911201903504455 (ZERO_RESULTS)
+No road found for -38.245785660464485,47.911201903504455
+Other error occurred: No road found for 54.410478442191895,87.32560060571653 (ZERO_RESULTS)
+No road found for 54.410478442191895,87.32560060571653
+Other error occurred: No road found for -35.63584080415196,134.24692844277132 (ZERO_RESULTS)
+No road found for -35.63584080415196,134.24692844277132
+Other error occurred: No road found for 2.5268740982094076,35.70955262250338 (ZERO_RESULTS)
+No road found for 2.5268740982094076,35.70955262250338
+Other error occurred: No road found for 31.22466641817795,137.14029520324092 (ZERO_RESULTS)
+No road found for 31.22466641817795,137.14029520324092
+Other error occurred: No road found for -53.77809877988316,78.86390149261541 (ZERO_RESULTS)
+No road found for -53.77809877988316,78.86390149261541
+Other error occurred: No road found for 42.345595688765066,51.71628865939897 (ZERO_RESULTS)
+No road found for 42.345595688765066,51.71628865939897
+Other error occurred: No road found for -10.71264612888479,143.72265845145066 (ZERO_RESULTS)
+No road found for -10.71264612888479,143.72265845145066
+Other error occurred: No road found for -23.666089800904786,39.330544253841424 (ZERO_RESULTS)
+No road found for -23.666089800904786,39.330544253841424
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 50.8727922,113.5798461, (ZERO_RESULTS)
+No streetview found for any option: [(50.8727922, 113.5798461)]
+Other error occurred: No road found for -48.08572960664669,120.05972637270365 (ZERO_RESULTS)
+No road found for -48.08572960664669,120.05972637270365
+Other error occurred: No road found for 18.79878234919582,37.746553177014434 (ZERO_RESULTS)
+No road found for 18.79878234919582,37.746553177014434
+Other error occurred: No road found for 15.758176257995146,142.9974634697567 (ZERO_RESULTS)
+No road found for 15.758176257995146,142.9974634697567
+Other error occurred: No road found for -46.13880513810114,56.39471100649882 (ZERO_RESULTS)
+No road found for -46.13880513810114,56.39471100649882
+Other error occurred: No road found for 52.38766993935957,70.77862770010326 (ZERO_RESULTS)
+No road found for 52.38766993935957,70.77862770010326
+Other error occurred: No road found for -26.673976028869017,139.73507787687288 (ZERO_RESULTS)
+No road found for -26.673976028869017,139.73507787687288
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -7.6288208,35.6641839, (ZERO_RESULTS)
+No streetview found for any option: [(-7.6288208, 35.6641839)]
+Other error occurred: No road found for 40.09807429145421,131.15877302497248 (ZERO_RESULTS)
+No road found for 40.09807429145421,131.15877302497248
+Other error occurred: No road found for -54.70648150975067,96.0472497159973 (ZERO_RESULTS)
+No road found for -54.70648150975067,96.0472497159973
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 34.1741083,44.0493719, (ZERO_RESULTS)
+No streetview found for any option: [(34.1741083, 44.0493719)]
+Other error occurred: No road found for -0.5941153997295402,144.80606363249376 (ZERO_RESULTS)
+No road found for -0.5941153997295402,144.80606363249376
+Other error occurred: No road found for -33.171709069498895,43.36692519187622 (ZERO_RESULTS)
+No road found for -33.171709069498895,43.36692519187622
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 54.66718770000001,98.1118669, (ZERO_RESULTS)
+No streetview found for any option: [(54.66718770000001, 98.1118669)]
+Other error occurred: No road found for -41.143694597417266,130.40370147581893 (ZERO_RESULTS)
+No road found for -41.143694597417266,130.40370147581893
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 8.845935899999999,35.5682268, (ZERO_RESULTS)
+No streetview found for any option: [(8.845935899999999, 35.5682268)]
+Other error occurred: No road found for 25.65822575316337,140.4802268897494 (ZERO_RESULTS)
+No road found for 25.65822575316337,140.4802268897494
+Other error occurred: No road found for -52.19412675341263,68.80544979665582 (ZERO_RESULTS)
+No road found for -52.19412675341263,68.80544979665582
+Other error occurred: No road found for 47.220183680523874,57.28652307169401 (ZERO_RESULTS)
+No road found for 47.220183680523874,57.28652307169401
+Other error occurred: No road found for -17.01263960510614,143.2017344729919 (ZERO_RESULTS)
+No road found for -17.01263960510614,143.2017344729919
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -17.757909,36.9260586, (ZERO_RESULTS)
+No streetview found for any option: [(-17.757909, 36.9260586)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 47.7734439,121.9542785, (ZERO_RESULTS)
+No streetview found for any option: [(47.7734439, 121.9542785)]
+Other error occurred: No road found for -51.976193682399646,112.3911149676463 (ZERO_RESULTS)
+No road found for -51.976193682399646,112.3911149676463
+Other error occurred: No road found for 25.004749321407306,39.04044991133806 (ZERO_RESULTS)
+No road found for 25.004749321407306,39.04044991133806
+Other error occurred: No road found for 9.626627449184541,144.60829243374118 (ZERO_RESULTS)
+No road found for 9.626627449184541,144.60829243374118
+Other error occurred: No road found for -41.9305147640826,49.89356192128646 (ZERO_RESULTS)
+No road found for -41.9305147640826,49.89356192128646
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 54.84641629999999,80.48807169999999, (ZERO_RESULTS)
+No streetview found for any option: [(54.84641629999999, 80.48807169999999)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -32.68359220000001,137.491049, (ZERO_RESULTS)
+No streetview found for any option: [(-32.68359220000001, 137.491049)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -1.3602095,34.7303012, (ZERO_RESULTS)
+No streetview found for any option: [(-1.3602095, 34.7303012)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 35.1125091,136.0387591, (ZERO_RESULTS)
+{'copyright': '© Google', 'date': '2019-04', 'location': {'lat': 35.11075463164926, 'lng': 136.0364817738899}, 'pano_id': 'pYhZ1-C5xDdTKdxLeJYKpg', 'status': 'OK'}
+Point 35.113319837462434,136.03739163387252 update to: 35.1107517,136.036491, has streetview!
+Other error occurred: No road found for -55.3761549537458,85.14094400820251 (ZERO_RESULTS)
+No road found for -55.3761549537458,85.14094400820251
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 39.8563025,47.5919221, (ZERO_RESULTS)
+No streetview found for any option: [(39.8563025, 47.5919221)]
+Other error occurred: No road found for -6.939754666060832,145.10675023532517 (ZERO_RESULTS)
+No road found for -6.939754666060832,145.10675023532517
+Other error occurred: No road found for -27.654276290230424,39.77571408596402 (ZERO_RESULTS)
+No road found for -27.654276290230424,39.77571408596402
+Other error occurred: No road found for 53.430169496543684,108.60288959342132 (ZERO_RESULTS)
+No road found for 53.430169496543684,108.60288959342132
+Other error occurred: No road found for -46.24420873211887,125.25534370291358 (ZERO_RESULTS)
+No road found for -46.24420873211887,125.25534370291358
+Other error occurred: No road found for 15.18940150773432,35.912200429356574 (ZERO_RESULTS)
+No road found for 15.18940150773432,35.912200429356574
+Other error occurred: No road found for 19.77614551309711,143.0640184884304 (ZERO_RESULTS)
+No road found for 19.77614551309711,143.0640184884304
+Other error occurred: No road found for -49.36639342197883,59.88889212059917 (ZERO_RESULTS)
+No road found for -49.36639342197883,59.88889212059917
+Other error occurred: No road found for 51.42794330829198,64.51022038605365 (ZERO_RESULTS)
+No road found for 51.42794330829198,64.51022038605365
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -23.2752465,142.1062605, (ZERO_RESULTS)
+No streetview found for any option: [(-23.2752465, 142.1062605)]
+Other error occurred: No road found for -11.633171027217942,35.169090109289534 (ZERO_RESULTS)
+No road found for -11.633171027217942,35.169090109289534
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 43.7379825,128.9305316, (ZERO_RESULTS)
+No streetview found for any option: [(43.7379825, 128.9305316)]
+Other error occurred: No road found for -54.854444937596924,102.95688925305646 (ZERO_RESULTS)
+No road found for -54.854444937596924,102.95688925305646
+Other error occurred: No road found for 31.113116618854082,41.037722285380035 (ZERO_RESULTS)
+No road found for 31.113116618854082,41.037722285380035
+Other error occurred: No road found for 3.339540837671173,145.69091887661105 (ZERO_RESULTS)
+No road found for 3.339540837671173,145.69091887661105
+Other error occurred: No road found for -37.04675125309383,44.65359274069743 (ZERO_RESULTS)
+No road found for -37.04675125309383,44.65359274069743
+Other error occurred: No road found for 55.97724155967297,91.4741160002928 (ZERO_RESULTS)
+No road found for 55.97724155967297,91.4741160002928
+Other error occurred: No road found for -38.490604292342226,134.31246634686988 (ZERO_RESULTS)
+No road found for -38.490604292342226,134.31246634686988
+Other error occurred: No road found for 5.01113054092097,34.27991943263721 (ZERO_RESULTS)
+No road found for 5.01113054092097,34.27991943263721
+Other error occurred: No road found for 29.65230922132573,139.89785054083782 (ZERO_RESULTS)
+No road found for 29.65230922132573,139.89785054083782
+Other error occurred: No road found for -54.56905277972107,74.20424853694072 (ZERO_RESULTS)
+No road found for -54.56905277972107,74.20424853694072
+Other error occurred: No road found for 45.16419378121057,52.32119756619172 (ZERO_RESULTS)
+No road found for 45.16419378121057,52.32119756619172
+Other error occurred: No road found for -13.331627024550695,144.91413700574367 (ZERO_RESULTS)
+No road found for -13.331627024550695,144.91413700574367
+Other error occurred: No road found for -21.799463986167527,36.9859820978899 (ZERO_RESULTS)
+No road found for -21.799463986167527,36.9859820978899
+Other error occurred: No road found for 50.89758060962939,118.08034321894701 (ZERO_RESULTS)
+No road found for 50.89758060962939,118.08034321894701
+Other error occurred: No road found for -50.74760571746216,118.49672924516253 (ZERO_RESULTS)
+No road found for -50.74760571746216,118.49672924516253
+Other error occurred: No road found for 21.52848794729087,36.813651953658955 (ZERO_RESULTS)
+No road found for 21.52848794729087,36.813651953658955
+Other error occurred: No road found for 13.654357527636419,145.00442688999917 (ZERO_RESULTS)
+No road found for 13.654357527636419,145.00442688999917
+Other error occurred: No road found for -45.5178177199607,52.409637765461426 (ZERO_RESULTS)
+No road found for -45.5178177199607,52.409637765461426
+{'copyright': '© Google', 'date': '2021-07', 'location': {'lat': 54.70092410082563, 'lng': 73.56692680360732}, 'pano_id': 'vxEFAKqiYhoMbj6niNjtyw', 'status': 'OK'}
+Point 54.70191809777425,73.57068163441089 update to: 54.7009203,73.56686549999999, has streetview!
+Other error occurred: No road found for -29.487176444868744,140.3524767427242 (ZERO_RESULTS)
+No road found for -29.487176444868744,140.3524767427242
+Other error occurred: No road found for -5.337026947765204,33.93827372899308 (ZERO_RESULTS)
+No road found for -5.337026947765204,33.93827372899308
+Other error occurred: No road found for 38.968995094826944,134.55226709925995 (ZERO_RESULTS)
+No road found for 38.968995094826944,134.55226709925995
+Other error occurred: No road found for -56.434352174440754,92.04630862938193 (ZERO_RESULTS)
+No road found for -56.434352174440754,92.04630862938193
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 37.05198499999999,43.8794093, (ZERO_RESULTS)
+No streetview found for any option: [(37.05198499999999, 43.8794093)]
+Other error occurred: No road found for -3.0570191003716176,146.28306803097612 (ZERO_RESULTS)
+No road found for -3.0570191003716176,146.28306803097612
+Other error occurred: No road found for -31.65029248024057,40.503515338419916 (ZERO_RESULTS)
+No road found for -31.65029248024057,40.503515338419916
+Other error occurred: No road found for 55.599439297471065,102.77187496273329 (ZERO_RESULTS)
+No road found for 55.599439297471065,102.77187496273329
+Other error occurred: No road found for -43.98669244575771,129.9800686222444 (ZERO_RESULTS)
+No road found for -43.98669244575771,129.9800686222444
+Other error occurred: No road found for 11.441712057317247,34.31686620481909 (ZERO_RESULTS)
+No road found for 11.441712057317247,34.31686620481909
+Other error occurred: No road found for 23.830195660003593,142.9057867524658 (ZERO_RESULTS)
+No road found for 23.830195660003593,142.9057867524658
+Other error occurred: No road found for -52.36220754517216,64.15814369778718 (ZERO_RESULTS)
+No road found for -52.36220754517216,64.15814369778718
+Other error occurred: No road found for 49.94092417252898,58.60494616060535 (ZERO_RESULTS)
+No road found for 49.94092417252898,58.60494616060535
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -19.7370498,144.1826102, (ZERO_RESULTS)
+No streetview found for any option: [(-19.7370498, 144.1826102)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -15.6883666,34.8713535, (ZERO_RESULTS)
+No streetview found for any option: [(-15.6883666, 34.8713535)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 47.2644984,126.0977435, (ZERO_RESULTS)
+No streetview found for any option: [(47.2644984, 126.0977435)]
+Other error occurred: No road found for -54.3986856872295,109.87005362292759 (ZERO_RESULTS)
+No road found for -54.3986856872295,109.87005362292759
+Other error occurred: No road found for 27.809003487028125,38.34232568519367 (ZERO_RESULTS)
+No road found for 27.809003487028125,38.34232568519367
+Other error occurred: No road found for 7.3528065906607765,146.38551276916328 (ZERO_RESULTS)
+No road found for 7.3528065906607765,146.38551276916328
+Other error occurred: No road found for -40.8767264077101,46.354026033939306 (ZERO_RESULTS)
+No road found for -40.8767264077101,46.354026033939306
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.7422643,84.2933767, (ZERO_RESULTS)
+No streetview found for any option: [(56.7422643, 84.2933767)]
+Other error occurred: No road found for -35.54241488116993,137.79001590996523 (ZERO_RESULTS)
+No road found for -35.54241488116993,137.79001590996523
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 1.0819501,33.2019193, (ZERO_RESULTS)
+No streetview found for any option: [(1.0819501, 33.2019193)]
+Other error occurred: No road found for 33.64606532081965,139.01500861745978 (ZERO_RESULTS)
+No road found for 33.64606532081965,139.01500861745978
+Other error occurred: No road found for -56.50967540827945,80.46464406459572 (ZERO_RESULTS)
+No road found for -56.50967540827945,80.46464406459572
+Other error occurred: No road found for 42.71826370655996,47.84225685898381 (ZERO_RESULTS)
+No road found for 42.71826370655996,47.84225685898381
+Other error occurred: No road found for -9.521899651132331,146.39704654306874 (ZERO_RESULTS)
+No road found for -9.521899651132331,146.39704654306874
+Other error occurred: No road found for -25.866701658953943,37.26326863776407 (ZERO_RESULTS)
+No road found for -25.866701658953943,37.26326863776407
+Other error occurred: No road found for 53.750446440508966,113.38236221452676 (ZERO_RESULTS)
+No road found for 53.750446440508966,113.38236221452676
+Other error occurred: No road found for -49.01442790259196,124.17178167534578 (ZERO_RESULTS)
+No road found for -49.01442790259196,124.17178167534578
+Other error occurred: No road found for 17.8893311295127,34.86202965245255 (ZERO_RESULTS)
+No road found for 17.8893311295127,34.86202965245255
+Other error occurred: No road found for 17.734677278631516,145.20143973769146 (ZERO_RESULTS)
+No road found for 17.734677278631516,145.20143973769146
+Other error occurred: No road found for -48.96569917326572,55.56132133711364 (ZERO_RESULTS)
+No road found for -48.96569917326572,55.56132133711364
+Other error occurred: No road found for 53.94738881534802,66.75144008872607 (ZERO_RESULTS)
+No road found for 53.94738881534802,66.75144008872607
+Other error occurred: No road found for -26.082373491566255,142.88163571685428 (ZERO_RESULTS)
+No road found for -26.082373491566255,142.88163571685428
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -9.3812338,33.3431209, (ZERO_RESULTS)
+No streetview found for any option: [(-9.3812338, 33.3431209)]
+Other error occurred: No road found for 42.76623759905624,132.61725225315578 (ZERO_RESULTS)
+No road found for 42.76623759905624,132.61725225315578
+Other error occurred: No road found for -56.88888215541936,99.37163491649095 (ZERO_RESULTS)
+No road found for -56.88888215541936,99.37163491649095
+Other error occurred: No road found for 33.97073199177975,40.6253831418024 (ZERO_RESULTS)
+No road found for 33.97073199177975,40.6253831418024
+Other error occurred: No road found for 0.9204312954285181,147.26345251411766 (ZERO_RESULTS)
+No road found for 0.9204312954285181,147.26345251411766
+Other error occurred: No road found for -35.637304485621954,41.55260492974317 (ZERO_RESULTS)
+No road found for -35.637304485621954,41.55260492974317
+Other error occurred: No road found for 57.28814031407445,96.0969162196923 (ZERO_RESULTS)
+No road found for 57.28814031407445,96.0969162196923
+Other error occurred: No road found for -41.36534366284435,134.21241881230603 (ZERO_RESULTS)
+No road found for -41.36534366284435,134.21241881230603
+Other error occurred: No road found for 7.574290438237592,32.9420160043867 (ZERO_RESULTS)
+No road found for 7.574290438237592,32.9420160043867
+Other error occurred: No road found for 27.907297129934836,142.50374077173544 (ZERO_RESULTS)
+No road found for 27.907297129934836,142.50374077173544
+Other error occurred: No road found for -55.051477066777835,69.30980191010494 (ZERO_RESULTS)
+No road found for -55.051477066777835,69.30980191010494
+Other error occurred: No road found for 47.97516414514119,53.182191034933425 (ZERO_RESULTS)
+No road found for 47.97516414514119,53.182191034933425
+Other error occurred: No road found for -16.01571334980996,146.0182550503517 (ZERO_RESULTS)
+No road found for -16.01571334980996,146.0182550503517
+Other error occurred: No road found for -19.79087763422584,34.777193051911155 (ZERO_RESULTS)
+No road found for -19.79087763422584,34.777193051911155
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 50.59978049999999,122.5665403, (ZERO_RESULTS)
+No streetview found for any option: [(50.59978049999999, 122.5665403)]
+Other error occurred: No road found for -53.35239591809285,116.5376284766787 (ZERO_RESULTS)
+No road found for -53.35239591809285,116.5376284766787
+Other error occurred: No road found for 24.310804347707652,35.97182570994529 (ZERO_RESULTS)
+No road found for 24.310804347707652,35.97182570994529
+Other error occurred: No road found for 11.433205566151155,146.8929277802101 (ZERO_RESULTS)
+No road found for 11.433205566151155,146.8929277802101
+Other error occurred: No road found for -44.63336096444933,48.545592680545184 (ZERO_RESULTS)
+No road found for -44.63336096444933,48.545592680545184
+Other error occurred: No road found for 56.87726005642468,76.8956634877748 (ZERO_RESULTS)
+No road found for 56.87726005642468,76.8956634877748
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -32.3531865,140.8765291, (ZERO_RESULTS)
+No streetview found for any option: [(-32.3531865, 140.8765291)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -2.9411001,32.3150094, (ZERO_RESULTS)
+No streetview found for any option: [(-2.9411001, 32.3150094)]
+Other error occurred: No road found for 37.621484214769694,137.78664859742295 (ZERO_RESULTS)
+No road found for 37.621484214769694,137.78664859742295
+Other error occurred: No road found for -57.92369861679328,87.52507785357409 (ZERO_RESULTS)
+No road found for -57.92369861679328,87.52507785357409
+Other error occurred: No road found for 39.93414801485927,43.853715608899606 (ZERO_RESULTS)
+No road found for 39.93414801485927,43.853715608899606
+Other error occurred: No road found for -5.600853070718338,147.66789355300412 (ZERO_RESULTS)
+No road found for -5.600853070718338,147.66789355300412
+Other error occurred: No road found for -29.950231227948894,37.79688319850874 (ZERO_RESULTS)
+No road found for -29.950231227948894,37.79688319850874
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.2623378,107.7863391, (ZERO_RESULTS)
+No streetview found for any option: [(56.2623378, 107.7863391)]
+Other error occurred: No road found for -46.830451675131926,129.32761021389697 (ZERO_RESULTS)
+No road found for -46.830451675131926,129.32761021389697
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 14.1132168,33.1654939, (ZERO_RESULTS)
+No streetview found for any option: [(14.1132168, 33.1654939)]
+Other error occurred: No road found for 21.85583316589924,145.19074943582166 (ZERO_RESULTS)
+No road found for 21.85583316589924,145.19074943582166
+Other error occurred: No road found for -52.220378040579526,59.47070266462253 (ZERO_RESULTS)
+No road found for -52.220378040579526,59.47070266462253
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 52.6184658,60.29243819999999, (ZERO_RESULTS)
+No streetview found for any option: [(52.6184658, 60.29243819999999)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -22.4851707,145.1147773, (ZERO_RESULTS)
+No streetview found for any option: [(-22.4851707, 145.1147773)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -13.4966376,32.9234394, (ZERO_RESULTS)
+No streetview found for any option: [(-13.4966376, 32.9234394)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 46.4762549,130.1415164, (ZERO_RESULTS)
+No streetview found for any option: [(46.4762549, 130.1415164)]
+Other error occurred: No road found for -56.70412027370572,106.83170769915529 (ZERO_RESULTS)
+No road found for -56.70412027370572,106.83170769915529
+Other error occurred: No road found for 30.65578498052841,37.74435987615233 (ZERO_RESULTS)
+No road found for 30.65578498052841,37.74435987615233
+Other error occurred: No road found for 4.979085580075219,148.0569937823309 (ZERO_RESULTS)
+No road found for 4.979085580075219,148.0569937823309
+Other error occurred: No road found for -39.595828723112255,42.9753326854454 (ZERO_RESULTS)
+No road found for -39.595828723112255,42.9753326854454
+Other error occurred: No road found for 58.406235449091206,88.69589464484696 (ZERO_RESULTS)
+No road found for 58.406235449091206,88.69589464484696
+Other error occurred: No road found for -38.4306027583959,137.9627519270919 (ZERO_RESULTS)
+No road found for -38.4306027583959,137.9627519270919
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 3.575959,31.7603755, (ZERO_RESULTS)
+No streetview found for any option: [(3.575959, 31.7603755)]
+Other error occurred: No road found for 31.993663869727722,141.8304914841905 (ZERO_RESULTS)
+No road found for 31.993663869727722,141.8304914841905
+Other error occurred: No road found for -57.344059570884276,75.42286888396934 (ZERO_RESULTS)
+No road found for -57.344059570884276,75.42286888396934
+Other error occurred: No road found for 45.58766839600278,48.301197045004116 (ZERO_RESULTS)
+No road found for 45.58766839600278,48.301197045004116
+Other error occurred: No road found for -12.172846718244369,147.60207338433153 (ZERO_RESULTS)
+No road found for -12.172846718244369,147.60207338433153
+Other error occurred: No road found for -23.92808431382952,34.896727123078676 (ZERO_RESULTS)
+No road found for -23.92808431382952,34.896727123078676
+Other error occurred: No road found for 53.75436101589234,118.24807603663363 (ZERO_RESULTS)
+No road found for 53.75436101589234,118.24807603663363
+Other error occurred: No road found for -51.755718797088875,122.76075403049096 (ZERO_RESULTS)
+No road found for -51.755718797088875,122.76075403049096
+Other error occurred: No road found for 20.645690596158225,33.895962331254154 (ZERO_RESULTS)
+No road found for 20.645690596158225,33.895962331254154
+Other error occurred: No road found for 15.569177434274554,147.21258246509976 (ZERO_RESULTS)
+No road found for 15.569177434274554,147.21258246509976
+Other error occurred: No road found for -48.280913902569985,51.328329419820264 (ZERO_RESULTS)
+No road found for -48.280913902569985,51.328329419820264
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.36818350000001,69.5060211, (ZERO_RESULTS)
+No streetview found for any option: [(56.36818350000001, 69.5060211)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -28.92625229999999,143.5611871, (ZERO_RESULTS)
+No streetview found for any option: [(-28.92625229999999, 143.5611871)]
+Other error occurred: No road found for -7.035015673305716,31.614297098170262 (ZERO_RESULTS)
+No road found for -7.035015673305716,31.614297098170262
+Other error occurred: No road found for 41.557255500394696,136.1520853277393 (ZERO_RESULTS)
+No road found for 41.557255500394696,136.1520853277393
+Other error occurred: No road found for -58.727229783062796,95.20574012838692 (ZERO_RESULTS)
+No road found for -58.727229783062796,95.20574012838692
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 36.861696,40.3371323, (ZERO_RESULTS)
+No streetview found for any option: [(36.861696, 40.3371323)]
+Other error occurred: No road found for -1.5837697680385021,148.7415506976856 (ZERO_RESULTS)
+No road found for -1.5837697680385021,148.7415506976856
+Other error occurred: No road found for -34.03563846062419,38.61927049132442 (ZERO_RESULTS)
+No road found for -34.03563846062419,38.61927049132442
+Other error occurred: No road found for 58.309934831912734,101.15369737742895 (ZERO_RESULTS)
+No road found for 58.309934831912734,101.15369737742895
+Other error occurred: No road found for -44.25407917487521,133.93163746324188 (ZERO_RESULTS)
+No road found for -44.25407917487521,133.93163746324188
+Other error occurred: No road found for 10.208071238874329,31.68914023721128 (ZERO_RESULTS)
+No road found for 10.208071238874329,31.68914023721128
+Other error occurred: No road found for 26.00615037608859,144.95792745175706 (ZERO_RESULTS)
+No road found for 26.00615037608859,144.95792745175706
+Other error occurred: No road found for -55.21273714511105,64.27393174194523 (ZERO_RESULTS)
+No road found for -55.21273714511105,64.27393174194523
+Other error occurred: No road found for 50.76869345532352,54.33626909884911 (ZERO_RESULTS)
+No road found for 50.76869345532352,54.33626909884911
+Other error occurred: No road found for -18.757990508423948,147.040629380318 (ZERO_RESULTS)
+No road found for -18.757990508423948,147.040629380318
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -17.6501168,32.7012531, (ZERO_RESULTS)
+No streetview found for any option: [(-17.6501168, 32.7012531)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 50.0342897,127.03562, (ZERO_RESULTS)
+No streetview found for any option: [(50.0342897, 127.03562)]
+Other error occurred: No road found for -55.88066119069004,114.11862873303059 (ZERO_RESULTS)
+No road found for -55.88066119069004,114.11862873303059
+Other error occurred: No road found for 27.139926133672883,35.21772878462999 (ZERO_RESULTS)
+No road found for 27.139926133672883,35.21772878462999
+Other error occurred: No road found for 9.106772349493777,148.66969009461423 (ZERO_RESULTS)
+No road found for 9.106772349493777,148.66969009461423
+Other error occurred: No road found for -43.50230748641999,44.84190411821364 (ZERO_RESULTS)
+No road found for -43.50230748641999,44.84190411821364
+Other error occurred: No road found for 58.880299757764,80.8111761084725 (ZERO_RESULTS)
+No road found for 58.880299757764,80.8111761084725
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -35.2268337,141.2599194, (ZERO_RESULTS)
+No streetview found for any option: [(-35.2268337, 141.2599194)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -0.441124,30.7880766, (ZERO_RESULTS)
+No streetview found for any option: [(-0.441124, 30.7880766)]
+Other error occurred: No road found for 36.07404960741872,140.84781298011475 (ZERO_RESULTS)
+No road found for 36.07404960741872,140.84781298011475
+Other error occurred: No road found for -59.1379037175935,82.5038720838346 (ZERO_RESULTS)
+No road found for -59.1379037175935,82.5038720838346
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 42.8149026,43.9348231, (ZERO_RESULTS)
+No streetview found for any option: [(42.8149026, 43.9348231)]
+Other error occurred: No road found for -8.21713100702905,148.9674382924231 (ZERO_RESULTS)
+No road found for -8.21713100702905,148.9674382924231
+Other error occurred: No road found for -28.088513549960368,35.24825244840151 (ZERO_RESULTS)
+No road found for -28.088513549960368,35.24825244840151
+Other error occurred: No road found for 56.58395940893254,112.94718023999481 (ZERO_RESULTS)
+No road found for 56.58395940893254,112.94718023999481
+Other error occurred: No road found for -49.666618654443155,128.4149691369498 (ZERO_RESULTS)
+No road found for -49.666618654443155,128.4149691369498
+Other error occurred: No road found for 16.837068982599572,32.085743883401655 (ZERO_RESULTS)
+No road found for 16.837068982599572,32.085743883401655
+Other error occurred: No road found for 19.749798186441552,147.33959577153843 (ZERO_RESULTS)
+No road found for 19.749798186441552,147.33959577153843
+Other error occurred: No road found for -51.77302116135883,54.828724954180025 (ZERO_RESULTS)
+No road found for -51.77302116135883,54.828724954180025
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 55.2367491,62.3814829, (ZERO_RESULTS)
+No streetview found for any option: [(55.2367491, 62.3814829)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -25.3176229,145.925541, (ZERO_RESULTS)
+No streetview found for any option: [(-25.3176229, 145.925541)]
+Other error occurred: No road found for -11.192999578939196,31.09083751896845 (ZERO_RESULTS)
+No road found for -11.192999578939196,31.09083751896845
+Other error occurred: No road found for 45.427071864654614,134.03025706243486 (ZERO_RESULTS)
+No road found for 45.427071864654614,134.03025706243486
+Other error occurred: No road found for -58.86164227931507,103.20755804842804 (ZERO_RESULTS)
+No road found for -58.86164227931507,103.20755804842804
+Other error occurred: No road found for 33.539977022397736,37.246428174110555 (ZERO_RESULTS)
+No road found for 33.539977022397736,37.246428174110555
+Other error occurred: No road found for 2.5158592230267356,149.6300153757489 (ZERO_RESULTS)
+No road found for 2.5158592230267356,149.6300153757489
+Other error occurred: No road found for -38.10660459084924,39.77529452083543 (ZERO_RESULTS)
+No road found for -38.10660459084924,39.77529452083543
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 59.82636279999999,93.63604959999999, (ZERO_RESULTS)
+No streetview found for any option: [(59.82636279999999, 93.63604959999999)]
+Other error occurred: No road found for -41.34222924710941,137.99326117994752 (ZERO_RESULTS)
+No road found for -41.34222924710941,137.99326117994752
+Other error occurred: No road found for 6.2019022629289475,30.42602003953709 (ZERO_RESULTS)
+No road found for 6.2019022629289475,30.42602003953709
+Other error occurred: No road found for 30.17360057070718,144.48117980741893 (ZERO_RESULTS)
+No road found for 30.17360057070718,144.48117980741893
+Other error occurred: No road found for -57.85525912172463,70.10201267397827 (ZERO_RESULTS)
+No road found for -57.85525912172463,70.10201267397827
+Other error occurred: No road found for 48.457825213542094,48.98964702587424 (ZERO_RESULTS)
+No road found for 48.457825213542094,48.98964702587424
+Other error occurred: No road found for -14.885337264180711,148.72813851390316 (ZERO_RESULTS)
+No road found for -14.885337264180711,148.72813851390316
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -21.8469251,32.6792715, (ZERO_RESULTS)
+No streetview found for any option: [(-21.8469251, 32.6792715)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 53.4498578,123.1396777, (ZERO_RESULTS)
+No streetview found for any option: [(53.4498578, 123.1396777)]
+Other error occurred: No road found for -54.454133482043495,120.96736768183057 (ZERO_RESULTS)
+No road found for -54.454133482043495,120.96736768183057
+Other error occurred: No road found for 23.452430039927627,33.009271110765965 (ZERO_RESULTS)
+No road found for 23.452430039927627,33.009271110765965
+Other error occurred: No road found for 13.292391973745099,149.10408340759972 (ZERO_RESULTS)
+No road found for 13.292391973745099,149.10408340759972
+Other error occurred: No road found for -47.32708294971568,47.245714607464194 (ZERO_RESULTS)
+No road found for -47.32708294971568,47.245714607464194
+Other error occurred: No road found for 58.67029516062022,72.78570474133642 (ZERO_RESULTS)
+No road found for 58.67029516062022,72.78570474133642
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -31.7914388,144.154269, (ZERO_RESULTS)
+No streetview found for any option: [(-31.7914388, 144.154269)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -4.6013399,29.99019169999999, (ZERO_RESULTS)
+No streetview found for any option: [(-4.6013399, 29.99019169999999)]
+Other error occurred: No road found for 40.13077707611774,139.50319216511872 (ZERO_RESULTS)
+No road found for 40.13077707611774,139.50319216511872
+Other error occurred: No road found for -60.329746049420685,90.4330310036791 (ZERO_RESULTS)
+No road found for -60.329746049420685,90.4330310036791
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 39.7712892,40.1720715, (ZERO_RESULTS)
+No streetview found for any option: [(39.7712892, 40.1720715)]
+Other error occurred: No road found for -4.16413785937144,150.13246116291478 (ZERO_RESULTS)
+No road found for -4.16413785937144,150.13246116291478
+Other error occurred: No road found for -32.259761312552186,35.858002999811156 (ZERO_RESULTS)
+No road found for -32.259761312552186,35.858002999811156
+Other error occurred: No road found for 59.01275405414357,106.56967355059486 (ZERO_RESULTS)
+No road found for 59.01275405414357,106.56967355059486
+Other error occurred: No road found for -47.15056874009831,133.44932642408537 (ZERO_RESULTS)
+No road found for -47.15056874009831,133.44932642408537
+Other error occurred: No road found for 12.90502909624871,30.51470270667739 (ZERO_RESULTS)
+No road found for 12.90502909624871,30.51470270667739
+Other error occurred: No road found for 23.964476077835002,147.26391605549966 (ZERO_RESULTS)
+No road found for 23.964476077835002,147.26391605549966
+Other error occurred: No road found for -55.048606048866574,59.20022902870625 (ZERO_RESULTS)
+No road found for -55.048606048866574,59.20022902870625
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 53.5279385,55.8461265, (ZERO_RESULTS)
+No streetview found for any option: [(53.5279385, 55.8461265)]
+Other error occurred: No road found for -21.55226350527521,147.98652090842856 (ZERO_RESULTS)
+No road found for -21.55226350527521,147.98652090842856
+Other error occurred: No road found for -15.403686578943558,30.745845854444926 (ZERO_RESULTS)
+No road found for -15.403686578943558,30.745845854444926
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 49.2140379,131.317351, (ZERO_RESULTS)
+No streetview found for any option: [(49.2140379, 131.317351)]
+Other error occurred: No road found for -58.30817582525729,111.16262549319427 (ZERO_RESULTS)
+No road found for -58.30817582525729,111.16262549319427
+Other error occurred: No road found for 30.010640657360007,34.54881090059854 (ZERO_RESULTS)
+No road found for 30.010640657360007,34.54881090059854
+Other error occurred: No road found for 6.686034362165077,150.3421788257316 (ZERO_RESULTS)
+No road found for 6.686034362165077,150.3421788257316
+Other error occurred: No road found for -42.143751178505454,41.326307366863816 (ZERO_RESULTS)
+No road found for -42.143751178505454,41.326307366863816
+Other error occurred: No road found for 60.67184927288889,85.36588406852404 (ZERO_RESULTS)
+No road found for 60.67184927288889,85.36588406852404
+{'copyright': '© Google', 'date': '2008-06', 'location': {'lat': -38.15146191576918, 'lng': 141.5462235182553}, 'pano_id': 'huAxlr9uRSKO8rMzoGENig', 'status': 'OK'}
+Point -38.146695778408855,141.54796148824673 update to: -38.1514628,141.5462326, has streetview!
+Other error occurred: No road found for 2.1054779495643974,29.355340038447576 (ZERO_RESULTS)
+No road found for 2.1054779495643974,29.355340038447576
+Other error occurred: No road found for 34.3452435551551,143.72919492032324 (ZERO_RESULTS)
+No road found for 34.3452435551551,143.72919492032324
+Other error occurred: No road found for -60.041700714886254,77.03960991461076 (ZERO_RESULTS)
+No road found for -60.041700714886254,77.03960991461076
+{'copyright': '© Google', 'date': '2018-09', 'location': {'lat': 45.7630760255378, 'lng': 44.25583739873338}, 'pano_id': '4kqPrc0jK78jsWmscmMs0g', 'status': 'OK'}
+Point 45.75284791352439,44.26581222050432 update to: 45.763098,44.255823, has streetview!
+Other error occurred: No road found for -10.898215173717118,150.18854404793066 (ZERO_RESULTS)
+No road found for -10.898215173717118,150.18854404793066
+Other error occurred: No road found for -26.0812821333122,32.85478270646486 (ZERO_RESULTS)
+No road found for -26.0812821333122,32.85478270646486
+Other error occurred: No road found for 56.58092978907453,118.23386591949081 (ZERO_RESULTS)
+No road found for 56.58092978907453,118.23386591949081
+Other error occurred: No road found for -52.48552194029664,127.20057388742501 (ZERO_RESULTS)
+No road found for -52.48552194029664,127.20057388742501
+Other error occurred: No road found for 19.618227721895277,31.084540597466983 (ZERO_RESULTS)
+No road found for 19.618227721895277,31.084540597466983
+Other error occurred: No road found for 17.525654460328315,149.3587919022476 (ZERO_RESULTS)
+No road found for 17.525654460328315,149.3587919022476
+Other error occurred: No road found for -51.03150301084779,50.30962284797203 (ZERO_RESULTS)
+No road found for -51.03150301084779,50.30962284797203
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 57.80050559999999,64.9580689, (ZERO_RESULTS)
+No streetview found for any option: [(57.80050559999999, 64.9580689)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -28.1760074,146.6710874, (ZERO_RESULTS)
+No streetview found for any option: [(-28.1760074, 146.6710874)]
+Other error occurred: No road found for -8.794166391248398,29.365978801661687 (ZERO_RESULTS)
+No road found for -8.794166391248398,29.365978801661687
+Other error occurred: No road found for 44.14235356867399,137.7250436123692 (ZERO_RESULTS)
+No road found for 44.14235356867399,137.7250436123692
+Other error occurred: No road found for -60.83397302097687,98.92984048989342 (ZERO_RESULTS)
+No road found for -60.83397302097687,98.92984048989342
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 36.4594945,36.8536987, (ZERO_RESULTS)
+No streetview found for any option: [(36.4594945, 36.8536987)]
+Other error occurred: No road found for -0.027460060585504414,151.1121532392645 (ZERO_RESULTS)
+No road found for -0.027460060585504414,151.1121532392645
+Other error occurred: No road found for -36.42816291218991,36.76313133228855 (ZERO_RESULTS)
+No road found for -36.42816291218991,36.76313133228855
+Other error occurred: No road found for 60.92693074635238,99.07784430028602 (ZERO_RESULTS)
+No road found for 60.92693074635238,99.07784430028602
+Other error occurred: No road found for -44.27227555970011,137.86940530503233 (ZERO_RESULTS)
+No road found for -44.27227555970011,137.86940530503233
+Other error occurred: No road found for 8.866816939028311,29.159523736602814 (ZERO_RESULTS)
+No road found for 8.866816939028311,29.159523736602814
+Other error occurred: No road found for 28.20259893019535,146.96908468254827 (ZERO_RESULTS)
+No road found for 28.20259893019535,146.96908468254827
+Other error occurred: No road found for -58.02717140691867,64.61431982558246 (ZERO_RESULTS)
+No road found for -58.02717140691867,64.61431982558246
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 51.3252912,49.9515161, (ZERO_RESULTS)
+No streetview found for any option: [(51.3252912, 49.9515161)]
+Other error occurred: No road found for -17.652853193450003,149.78134485522494 (ZERO_RESULTS)
+No road found for -17.652853193450003,149.78134485522494
+Other error occurred: No road found for -19.65709193286109,30.58289674759405 (ZERO_RESULTS)
+No road found for -19.65709193286109,30.58289674759405
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 52.80945,127.8431584, (ZERO_RESULTS)
+No streetview found for any option: [(52.80945, 127.8431584)]
+Other error occurred: No road found for -57.092347977417724,118.72133373874952 (ZERO_RESULTS)
+No road found for -57.092347977417724,118.72133373874952
+Other error occurred: No road found for 26.30412692555661,32.19770874727759 (ZERO_RESULTS)
+No road found for 26.30412692555661,32.19770874727759
+Other error occurred: No road found for 10.915971767777961,150.88359539620964 (ZERO_RESULTS)
+No road found for 10.915971767777961,150.88359539620964
+Other error occurred: No road found for -46.12297080101419,43.35575026515986 (ZERO_RESULTS)
+No road found for -46.12297080101419,43.35575026515986
+Other error occurred: No road found for 60.8118016008581,76.73556694818859 (ZERO_RESULTS)
+No road found for 60.8118016008581,76.73556694818859
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -34.715993,144.6381419, (ZERO_RESULTS)
+No streetview found for any option: [(-34.715993, 144.6381419)]
+Other error occurred: No road found for -2.0684714425729718,28.463685895300134 (ZERO_RESULTS)
+No road found for -2.0684714425729718,28.463685895300134
+Other error occurred: No road found for 38.50646665381725,142.65806423038325 (ZERO_RESULTS)
+No road found for 38.50646665381725,142.65806423038325
+Other error occurred: No road found for -61.65349498831727,85.05826141035166 (ZERO_RESULTS)
+No road found for -61.65349498831727,85.05826141035166
+Other error occurred: No road found for 42.71599593381148,40.13899984137971 (ZERO_RESULTS)
+No road found for 42.71599593381148,40.13899984137971
+Other error occurred: No road found for -6.81261959678185,151.4434753384735 (ZERO_RESULTS)
+No road found for -6.81261959678185,151.4434753384735
+Other error occurred: No road found for -30.32702497529599,33.26783219073233 (ZERO_RESULTS)
+No road found for -30.32702497529599,33.26783219073233
+Other error occurred: No road found for 59.373583800052444,112.23579288427426 (ZERO_RESULTS)
+No road found for 59.373583800052444,112.23579288427426
+Other error occurred: No road found for -50.04802524312132,132.73731778263414 (ZERO_RESULTS)
+No road found for -50.04802524312132,132.73731778263414
+Other error occurred: No road found for 15.658470780086386,29.412262369311307 (ZERO_RESULTS)
+No road found for 15.658470780086386,29.412262369311307
+Other error occurred: No road found for 21.796811239422635,149.42785193359109 (ZERO_RESULTS)
+No road found for 21.796811239422635,149.42785193359109
+Other error occurred: No road found for -54.563850005797114,54.19181751001232 (ZERO_RESULTS)
+No road found for -54.563850005797114,54.19181751001232
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.2641162,57.72965549999999, (ZERO_RESULTS)
+No streetview found for any option: [(56.2641162, 57.72965549999999)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -24.3713087,148.8782056, (ZERO_RESULTS)
+No streetview found for any option: [(-24.3713087, 148.8782056)]
+Other error occurred: No road found for -13.05025045347653,28.9089756255623 (ZERO_RESULTS)
+No road found for -13.05025045347653,28.9089756255623
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 48.06528489999999,135.4017853, (ZERO_RESULTS)
+No streetview found for any option: [(48.06528489999999, 135.4017853)]
+Other error occurred: No road found for -60.60449095798005,107.57975677440294 (ZERO_RESULTS)
+No road found for -60.60449095798005,107.57975677440294
+Other error occurred: No road found for 32.918254980342724,33.96340495346504 (ZERO_RESULTS)
+No road found for 32.918254980342724,33.96340495346504
+Other error occurred: No road found for 4.180956472813638,151.91830897216488 (ZERO_RESULTS)
+No road found for 4.180956472813638,151.91830897216488
+Other error occurred: No road found for -40.57788981591658,38.01539952115888 (ZERO_RESULTS)
+No road found for -40.57788981591658,38.01539952115888
+Other error occurred: No road found for 62.20750311831078,90.58548377397858 (ZERO_RESULTS)
+No road found for 62.20750311831078,90.58548377397858
+Other error occurred: No road found for -41.090639817197356,141.71602015384946 (ZERO_RESULTS)
+No road found for -41.090639817197356,141.71602015384946
+Other error occurred: No road found for 4.7372842851658845,28.00029341149888 (ZERO_RESULTS)
+No road found for 4.7372842851658845,28.00029341149888
+Other error occurred: No road found for 32.453095439999196,146.4304507788952 (ZERO_RESULTS)
+No road found for 32.453095439999196,146.4304507788952
+Other error occurred: No road found for -60.6049199015313,71.23077230139137 (ZERO_RESULTS)
+No road found for -60.6049199015313,71.23077230139137
+{'copyright': '© Google', 'date': '2021-03', 'location': {'lat': 48.67584499457002, 'lng': 44.75613119143427}, 'pano_id': '_Kj4H2YwmHpg5VTKAeMY4Q', 'status': 'OK'}
+Point 48.67677075632369,44.75878362562285 update to: 48.6758233,44.75613269999999, has streetview!
+Other error occurred: No road found for -13.637229020263074,151.33795146195425 (ZERO_RESULTS)
+No road found for -13.637229020263074,151.33795146195425
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -23.9415056,30.6112054, (ZERO_RESULTS)
+No streetview found for any option: [(-23.9415056, 30.6112054)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.2471675,123.5040542, (ZERO_RESULTS)
+No streetview found for any option: [(56.2471675, 123.5040542)]
+Other error occurred: No road found for -55.27551123723546,125.62944923877659 (ZERO_RESULTS)
+No road found for -55.27551123723546,125.62944923877659
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 22.457002,30.14756299999999, (ZERO_RESULTS)
+No streetview found for any option: [(22.457002, 30.14756299999999)]
+Other error occurred: No road found for 15.19584701366954,151.2561767043555 (ZERO_RESULTS)
+No road found for 15.19584701366954,151.2561767043555
+Other error occurred: No road found for -50.012968505753825,45.97662280688619 (ZERO_RESULTS)
+No road found for -50.012968505753825,45.97662280688619
+Other error occurred: No road found for 60.21470291965548,68.18039101160974 (ZERO_RESULTS)
+No road found for 60.21470291965548,68.18039101160974
+Other error occurred: No road found for -31.07810224261099,147.33396490607234 (ZERO_RESULTS)
+No road found for -31.07810224261099,147.33396490607234
+Other error occurred: No road found for -6.3087108677702295,27.740906207488784 (ZERO_RESULTS)
+No road found for -6.3087108677702295,27.740906207488784
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 42.6416633,141.2158674, (ZERO_RESULTS)
+No streetview found for any option: [(42.6416633, 141.2158674)]
+Other error occurred: No road found for -62.577092748104704,93.94348658202723 (ZERO_RESULTS)
+No road found for -62.577092748104704,93.94348658202723
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 39.4035397,36.5541438, (ZERO_RESULTS)
+No streetview found for any option: [(39.4035397, 36.5541438)]
+Other error occurred: No road found for -2.642359387149997,152.51112039445925 (ZERO_RESULTS)
+No road found for -2.642359387149997,152.51112039445925
+Other error occurred: No road found for -34.57925938712845,33.9408538352106 (ZERO_RESULTS)
+No road found for -34.57925938712845,33.9408538352106
+Other error occurred: No road found for 61.704649597972995,104.97850980616249 (ZERO_RESULTS)
+No road found for 61.704649597972995,104.97850980616249
+Other error occurred: No road found for -47.2156628721088,137.57422430347435 (ZERO_RESULTS)
+No road found for -47.2156628721088,137.57422430347435
+Other error occurred: No road found for 11.591110467012168,27.964948056616983 (ZERO_RESULTS)
+No road found for 11.591110467012168,27.964948056616983
+Other error occurred: No road found for 26.096362279677972,149.29975892356714 (ZERO_RESULTS)
+No road found for 26.096362279677972,149.29975892356714
+Other error occurred: No road found for -57.853902562512225,59.08712976987944 (ZERO_RESULTS)
+No road found for -57.853902562512225,59.08712976987944
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 54.158197,51.2314061, (ZERO_RESULTS)
+No streetview found for any option: [(54.158197, 51.2314061)]
+Other error occurred: No road found for -20.46953697643029,150.76758437419812 (ZERO_RESULTS)
+No road found for -20.46953697643029,150.76758437419812
+Other error occurred: No road found for -17.351642953443847,28.621352538264446 (ZERO_RESULTS)
+No road found for -17.351642953443847,28.621352538264446
+Other error occurred: No road found for 51.91189968078855,132.4455092542239 (ZERO_RESULTS)
+No road found for 51.91189968078855,132.4455092542239
+Other error occurred: No road found for -59.64832178893398,115.93367455867579 (ZERO_RESULTS)
+No road found for -59.64832178893398,115.93367455867579
+Other error occurred: No road found for 29.195915589742718,31.45753012185051 (ZERO_RESULTS)
+No road found for 29.195915589742718,31.45753012185051
+Other error occurred: No road found for 8.450518503072605,152.55940893584355 (ZERO_RESULTS)
+No road found for 8.450518503072605,152.55940893584355
+Other error occurred: No road found for -44.68963917763423,39.68648502321719 (ZERO_RESULTS)
+No road found for -44.68963917763423,39.68648502321719
+Other error occurred: No road found for 62.753401543118265,81.41464270775438 (ZERO_RESULTS)
+No road found for 62.753401543118265,81.41464270775438
+{'copyright': '© Google', 'date': '2019-04', 'location': {'lat': -37.65651141145195, 'lng': 145.0475153505287}, 'pano_id': 'N5AG11zdXZrv5u3m7xyLBA', 'status': 'OK'}
+Point -37.6565808439098,145.04718188580128 update to: -37.6565057,145.0475151, has streetview!
+Other error occurred: No road found for 0.529290997770264,27.0205461962839 (ZERO_RESULTS)
+No road found for 0.529290997770264,27.0205461962839
+Other error occurred: No road found for 36.70385248950888,145.61256613338114 (ZERO_RESULTS)
+No road found for 36.70385248950888,145.61256613338114
+Other error occurred: No road found for -62.65541142364401,79.13272441658314 (ZERO_RESULTS)
+No road found for -62.65541142364401,79.13272441658314
+{'copyright': '© Google', 'date': '2019-08', 'location': {'lat': 45.67191091385254, 'lng': 40.25679247902437}, 'pano_id': 'kjtHeuimgWHctMrB1Tjqnw', 'status': 'OK'}
+Point 45.6729066613673,40.25667397177937 update to: 45.6719442,40.2567428, has streetview!
+Other error occurred: No road found for -9.521946920037813,152.6818585169225 (ZERO_RESULTS)
+No road found for -9.521946920037813,152.6818585169225
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -28.2498298,30.842257, (ZERO_RESULTS)
+No streetview found for any option: [(-28.2498298, 30.842257)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 59.3761745,118.0012572, (ZERO_RESULTS)
+No streetview found for any option: [(59.3761745, 118.0012572)]
+Other error occurred: No road found for -52.938733819801655,131.75761567366337 (ZERO_RESULTS)
+No road found for -52.938733819801655,131.75761567366337
+Other error occurred: No road found for 18.462373450815484,28.375535077017382 (ZERO_RESULTS)
+No road found for 18.462373450815484,28.375535077017382
+Other error occurred: No road found for 19.51654885123831,151.45773457262362 (ZERO_RESULTS)
+No road found for 19.51654885123831,151.45773457262362
+Other error occurred: No road found for -53.77161810147784,49.34069989833455 (ZERO_RESULTS)
+No road found for -53.77161810147784,49.34069989833455
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 58.91233210000001,60.1158119, (ZERO_RESULTS)
+No streetview found for any option: [(58.91233210000001, 60.1158119)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -27.2706007,149.6788691, (ZERO_RESULTS)
+No streetview found for any option: [(-27.2706007, 149.6788691)]
+Other error occurred: No road found for -10.605223794578754,27.180227772821365 (ZERO_RESULTS)
+No road found for -10.605223794578754,27.180227772821365
+Other error occurred: No road found for 46.723826537828145,139.29126526817882 (ZERO_RESULTS)
+No road found for 46.723826537828145,139.29126526817882
+Other error occurred: No road found for -62.7313733779883,103.27168544735636 (ZERO_RESULTS)
+No road found for -62.7313733779883,103.27168544735636
+Other error occurred: No road found for 35.85853047372028,33.46084830446851 (ZERO_RESULTS)
+No road found for 35.85853047372028,33.46084830446851
+Other error occurred: No road found for 1.6005674124958562,153.40623199920338 (ZERO_RESULTS)
+No road found for 1.6005674124958562,153.40623199920338
+Other error occurred: No road found for -38.82506398551273,34.91603445962666 (ZERO_RESULTS)
+No road found for -38.82506398551273,34.91603445962666
+Other error occurred: No road found for 63.43975167412665,96.45397385204788 (ZERO_RESULTS)
+No road found for 63.43975167412665,96.45397385204788
+Other error occurred: No road found for -44.05609097607725,141.75692481256993 (ZERO_RESULTS)
+No road found for -44.05609097607725,141.75692481256993
+Other error occurred: No road found for 7.431433505626815,26.71905125607663 (ZERO_RESULTS)
+No road found for 7.431433505626815,26.71905125607663
+Other error occurred: No road found for 30.41471056730249,148.95605247460347 (ZERO_RESULTS)
+No road found for 30.41471056730249,148.95605247460347
+Other error occurred: No road found for -60.806583553161936,65.21370059480152 (ZERO_RESULTS)
+No road found for -60.806583553161936,65.21370059480152
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 51.6115066,45.48639319999999, (ZERO_RESULTS)
+No streetview found for any option: [(51.6115066, 45.48639319999999)]
+Other error occurred: No road found for -16.42797661420816,152.4222862599796 (ZERO_RESULTS)
+No road found for -16.42797661420816,152.4222862599796
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -21.6823826,28.5023969, (ZERO_RESULTS)
+No streetview found for any option: [(-21.6823826, 28.5023969)]
+Other error occurred: No road found for 55.5842932250415,128.63818433517835 (ZERO_RESULTS)
+No road found for 55.5842932250415,128.63818433517835
+Other error occurred: No road found for -58.02202090985442,123.62893103940578 (ZERO_RESULTS)
+No road found for -58.02202090985442,123.62893103940578
+Other error occurred: No road found for 25.3189295347809,29.283672136843233 (ZERO_RESULTS)
+No road found for 25.3189295347809,29.283672136843233
+Other error occurred: No road found for 12.771724498922199,153.04046961087738 (ZERO_RESULTS)
+No road found for 12.771724498922199,153.04046961087738
+Other error occurred: No road found for -48.738672781419346,41.87555520844509 (ZERO_RESULTS)
+No road found for -48.738672781419346,41.87555520844509
+Other error occurred: No road found for 62.51023170950172,72.06917746290705 (ZERO_RESULTS)
+No road found for 62.51023170950172,72.06917746290705
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -34.0084858,147.9275029, (ZERO_RESULTS)
+No streetview found for any option: [(-34.0084858, 147.9275029)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -3.7462435,26.2016168, (ZERO_RESULTS)
+No streetview found for any option: [(-3.7462435, 26.2016168)]
+Other error occurred: No road found for 40.94089625263238,144.46535061557717 (ZERO_RESULTS)
+No road found for 40.94089625263238,144.46535061557717
+Other error occurred: No road found for -64.04116009687795,88.2251624641251 (ZERO_RESULTS)
+No road found for -64.04116009687795,88.2251624641251
+Other error occurred: No road found for 42.3721641961029,36.37575765098744 (ZERO_RESULTS)
+No road found for 42.3721641961029,36.37575765098744
+Other error occurred: No road found for -5.321141605585574,153.83466390184643 (ZERO_RESULTS)
+No road found for -5.321141605585574,153.83466390184643
+Other error occurred: No road found for -32.57780255046917,31.30482459783166 (ZERO_RESULTS)
+No road found for -32.57780255046917,31.30482459783166
+Other error occurred: No road found for 62.11857957139092,111.19729171666442 (ZERO_RESULTS)
+No road found for 62.11857957139092,111.19729171666442
+Other error occurred: No road found for -50.16704863847872,137.0843696702869 (ZERO_RESULTS)
+No road found for -50.16704863847872,137.0843696702869
+Other error occurred: No road found for 14.36840651624121,26.835363131443454 (ZERO_RESULTS)
+No road found for 14.36840651624121,26.835363131443454
+Other error occurred: No road found for 23.869428158703013,151.48128171247697 (ZERO_RESULTS)
+No road found for 23.869428158703013,151.48128171247697
+Other error occurred: No road found for -57.34063922328625,53.64773812702821 (ZERO_RESULTS)
+No road found for -57.34063922328625,53.64773812702821
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.9819399,52.8326424, (ZERO_RESULTS)
+No streetview found for any option: [(56.9819399, 52.8326424)]
+Other error occurred: No road found for -23.330119967026686,151.69255195546822 (ZERO_RESULTS)
+No road found for -23.330119967026686,151.69255195546822
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -14.9369779,26.7800804, (ZERO_RESULTS)
+No streetview found for any option: [(-14.9369779, 26.7800804)]
+Other error occurred: No road found for 50.72974631757986,136.79463265751903 (ZERO_RESULTS)
+No road found for 50.72974631757986,136.79463265751903
+Other error occurred: No road found for -62.093512776648886,112.49399686369172 (ZERO_RESULTS)
+No road found for -62.093512776648886,112.49399686369172
+Other error occurred: No road found for 32.12342521746192,30.78551761813349 (ZERO_RESULTS)
+No road found for 32.12342521746192,30.78551761813349
+Other error occurred: No road found for 5.905650705690163,154.14016808033273 (ZERO_RESULTS)
+No road found for 5.905650705690163,154.14016808033273
+Other error occurred: No road found for -43.049114902571084,36.25275451720545 (ZERO_RESULTS)
+No road found for -43.049114902571084,36.25275451720545
+Other error occurred: No road found for 64.44533273661098,86.88503749082192 (ZERO_RESULTS)
+No road found for 64.44533273661098,86.88503749082192
+Other error occurred: No road found for -40.62743998158779,145.35485427534854 (ZERO_RESULTS)
+No road found for -40.62743998158779,145.35485427534854
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 3.1613851,25.6665637, (ZERO_RESULTS)
+No streetview found for any option: [(3.1613851, 25.6665637)]
+Other error occurred: No road found for 34.74172133293537,148.36921436434986 (ZERO_RESULTS)
+No road found for 34.74172133293537,148.36921436434986
+Other error occurred: No road found for -63.29705661823709,72.76561092829222 (ZERO_RESULTS)
+No road found for -63.29705661823709,72.76561092829222
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 48.6408763,40.5322842, (ZERO_RESULTS)
+No streetview found for any option: [(48.6408763, 40.5322842)]
+Other error occurred: No road found for -12.285555787545764,153.85481868198923 (ZERO_RESULTS)
+No road found for -12.285555787545764,153.85481868198923
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -26.0530201,28.5648823, (ZERO_RESULTS)
+No streetview found for any option: [(-26.0530201, 28.5648823)]
+Other error occurred: No road found for 59.0296363059065,123.76853791759778 (ZERO_RESULTS)
+No road found for 59.0296363059065,123.76853791759778
+Other error occurred: No road found for -55.81351125767804,130.45887458276331 (ZERO_RESULTS)
+No road found for -55.81351125767804,130.45887458276331
+Other error occurred: No road found for 21.311312025779703,27.398378107752606 (ZERO_RESULTS)
+No road found for 21.311312025779703,27.398378107752606
+Other error occurred: No road found for 17.135927933742742,153.36277371413166 (ZERO_RESULTS)
+No road found for 17.135927933742742,153.36277371413166
+Other error occurred: No road found for -52.691817980680156,44.7198100791272 (ZERO_RESULTS)
+No road found for -52.691817980680156,44.7198100791272
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 61.4526043,63.0982823, (ZERO_RESULTS)
+No streetview found for any option: [(61.4526043, 63.0982823)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -30.1949444,150.4087188, (ZERO_RESULTS)
+No streetview found for any option: [(-30.1949444, 150.4087188)]
+Other error occurred: No road found for -8.078554808260757,25.55068133000631 (ZERO_RESULTS)
+No road found for -8.078554808260757,25.55068133000631
+Other error occurred: No road found for 45.14718667236562,142.91840725361013 (ZERO_RESULTS)
+No road found for 45.14718667236562,142.91840725361013
+Other error occurred: No road found for -64.64149275230155,98.14300549088776 (ZERO_RESULTS)
+No road found for -64.64149275230155,98.14300549088776
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 38.8311015,33.0621386, (ZERO_RESULTS)
+No streetview found for any option: [(38.8311015, 33.0621386)]
+Other error occurred: No road found for -1.046958987354329,154.8141896015408 (ZERO_RESULTS)
+No road found for -1.046958987354329,154.8141896015408
+Other error occurred: No road found for -36.90501745499053,32.02720033950278 (ZERO_RESULTS)
+No road found for -36.90501745499053,32.02720033950278
+Other error occurred: No road found for 64.32218679465797,102.89435396482033 (ZERO_RESULTS)
+No road found for 64.32218679465797,102.89435396482033
+Other error occurred: No road found for -47.03894378844488,141.65834825484177 (ZERO_RESULTS)
+No road found for -47.03894378844488,141.65834825484177
+Other error occurred: No road found for 10.181166125020754,25.50414355869053 (ZERO_RESULTS)
+No road found for 10.181166125020754,25.50414355869053
+Other error occurred: No road found for 28.246021087750407,151.31396552632413 (ZERO_RESULTS)
+No road found for 28.246021087750407,151.31396552632413
+Other error occurred: No road found for -60.638237570013345,59.14830435978912 (ZERO_RESULTS)
+No road found for -60.638237570013345,59.14830435978912
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 54.5183995,46.4691126, (ZERO_RESULTS)
+No streetview found for any option: [(54.5183995, 46.4691126)]
+Other error occurred: No road found for -19.26486894530466,153.44807289953593 (ZERO_RESULTS)
+No road found for -19.26486894530466,153.44807289953593
+Other error occurred: No road found for -19.331630109236777,26.53633647418652 (ZERO_RESULTS)
+No road found for -19.331630109236777,26.53633647418652
+Other error occurred: No road found for 54.618666371301366,133.55576648466487 (ZERO_RESULTS)
+No road found for 54.618666371301366,133.55576648466487
+Other error occurred: No road found for -60.706223071638846,121.1030969745499 (ZERO_RESULTS)
+No road found for -60.706223071638846,121.1030969745499
+Other error occurred: No road found for 28.228746621771243,28.473934840309575 (ZERO_RESULTS)
+No road found for 28.228746621771243,28.473934840309575
+Other error occurred: No road found for 10.26359258502471,154.7208940015503 (ZERO_RESULTS)
+No road found for 10.26359258502471,154.7208940015503
+Other error occurred: No road found for -47.23220156424131,38.034521053570806 (ZERO_RESULTS)
+No road found for -47.23220156424131,38.034521053570806
+Other error occurred: No road found for 64.62351823472079,76.7754084239807 (ZERO_RESULTS)
+No road found for 64.62351823472079,76.7754084239807
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -36.9720188,148.4598752, (ZERO_RESULTS)
+No streetview found for any option: [(-36.9720188, 148.4598752)]
+Other error occurred: No road found for -1.114306551858792,24.756444036232963 (ZERO_RESULTS)
+No road found for -1.114306551858792,24.756444036232963
+Other error occurred: No road found for 39.06611884706052,147.4995199403198 (ZERO_RESULTS)
+No road found for 39.06611884706052,147.4995199403198
+Other error occurred: No road found for -65.1735472674486,81.8081118534903 (ZERO_RESULTS)
+No road found for -65.1735472674486,81.8081118534903
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 45.36215,36.3286184, (ZERO_RESULTS)
+No streetview found for any option: [(45.36215, 36.3286184)]
+Other error occurred: No road found for -8.056843270848152,155.0905084698044 (ZERO_RESULTS)
+No road found for -8.056843270848152,155.0905084698044
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -30.4404739,28.8327185, (ZERO_RESULTS)
+No streetview found for any option: [(-30.4404739, 28.8327185)]
+{'copyright': '© Google', 'date': '2021-07', 'location': {'lat': 62.15935305135605, 'lng': 117.5878675862746}, 'pano_id': 'dRe5zhDCNEZtsSfCbFWHTQ', 'status': 'OK'}
+Point 62.151095331588074,117.56571845196278 update to: 62.15932309999999,117.5879036, has streetview!
+Other error occurred: No road found for -53.12055190488253,136.36781406561545 (ZERO_RESULTS)
+No road found for -53.12055190488253,136.36781406561545
+Other error occurred: No road found for 17.192945628979178,25.763912413316735 (ZERO_RESULTS)
+No road found for 17.192945628979178,25.763912413316735
+Other error occurred: No road found for 21.535112418072934,153.52340769249415 (ZERO_RESULTS)
+No road found for 21.535112418072934,153.52340769249415
+Other error occurred: No road found for -56.50283797036566,48.40818564432934 (ZERO_RESULTS)
+No road found for -56.50283797036566,48.40818564432934
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 59.7479999,54.9694655, (ZERO_RESULTS)
+No streetview found for any option: [(59.7479999, 54.9694655)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -26.232514,152.5615753, (ZERO_RESULTS)
+No streetview found for any option: [(-26.232514, 152.5615753)]
+Other error occurred: No road found for -12.459752185960955,25.044655630206368 (ZERO_RESULTS)
+No road found for -12.459752185960955,25.044655630206368
+Other error occurred: No road found for 49.3007746224568,140.87256837479762 (ZERO_RESULTS)
+No road found for 49.3007746224568,140.87256837479762
+Other error occurred: No road found for -64.39061416947243,108.27041213826216 (ZERO_RESULTS)
+No road found for -64.39061416947243,108.27041213826216
+Other error occurred: No road found for 35.08272512019751,30.179015133460304 (ZERO_RESULTS)
+No road found for 35.08272512019751,30.179015133460304
+Other error occurred: No road found for 3.2900815461661646,155.63466906956728 (ZERO_RESULTS)
+No road found for 3.2900815461661646,155.63466906956728
+Other error occurred: No road found for -41.223294752541754,33.05827648819986 (ZERO_RESULTS)
+No road found for -41.223294752541754,33.05827648819986
+Other error occurred: No road found for 65.83137055515333,93.16463273695382 (ZERO_RESULTS)
+No road found for 65.83137055515333,93.16463273695382
+Other error occurred: No road found for -43.62156725114343,145.56244058765762 (ZERO_RESULTS)
+No road found for -43.62156725114343,145.56244058765762
+Other error occurred: No road found for 5.914070553824394,24.358721996361588 (ZERO_RESULTS)
+No road found for 5.914070553824394,24.358721996361588
+Other error occurred: No road found for 32.637715652610254,150.935448968213 (ZERO_RESULTS)
+No road found for 32.637715652610254,150.935448968213
+Other error occurred: No road found for -63.5503695457191,66.12323896379593 (ZERO_RESULTS)
+No road found for -63.5503695457191,66.12323896379593
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 51.623151,41.0062952, (ZERO_RESULTS)
+No streetview found for any option: [(51.623151, 41.0062952)]
+Other error occurred: No road found for -15.097510170093791,154.96950888005918 (ZERO_RESULTS)
+No road found for -15.097510170093791,154.96950888005918
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -23.7474327,26.4636229, (ZERO_RESULTS)
+No streetview found for any option: [(-23.7474327, 26.4636229)]
+Other error occurred: No road found for 58.335355519610935,129.3541882803563 (ZERO_RESULTS)
+No road found for 58.335355519610935,129.3541882803563
+Other error occurred: No road found for -58.66091506004064,128.7713240061356 (ZERO_RESULTS)
+No road found for -58.66091506004064,128.7713240061356
+Other error occurred: No road found for 24.200393667856783,26.474752442990066 (ZERO_RESULTS)
+No road found for 24.200393667856783,26.474752442990066
+Other error occurred: No road found for 14.666069299075463,155.15288831925935 (ZERO_RESULTS)
+No road found for 14.666069299075463,155.15288831925935
+Other error occurred: No road found for -51.348921381698766,40.379258833820444 (ZERO_RESULTS)
+No road found for -51.348921381698766,40.379258833820444
+Other error occurred: No road found for 63.94735415811283,66.80469201473804 (ZERO_RESULTS)
+No road found for 63.94735415811283,66.80469201473804
+{'copyright': '© Maurice van Creij', 'date': '2017-08', 'location': {'lat': -33.1460838, 'lng': 151.0973206}, 'pano_id': 'CAoSLEFGMVFpcFBoVFBURjNmYk1ieTN3MGNSbUlfR19YSFlRMWd5ZnI0aU9VUGRj', 'status': 'OK'}
+Point -33.14638485670521,151.09754777255526 update to: -33.1460701,151.0973644, has streetview!
+Other error occurred: No road found for -5.479256003559273,24.011226799601047 (ZERO_RESULTS)
+No road found for -5.479256003559273,24.011226799601047
+Other error occurred: No road found for 43.37461081208166,146.29027190726183 (ZERO_RESULTS)
+No road found for 43.37461081208166,146.29027190726183
+Other error occurred: No road found for -66.27818220907129,92.12404678519513 (ZERO_RESULTS)
+No road found for -66.27818220907129,92.12404678519513
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 41.8257178,32.7148492, (ZERO_RESULTS)
+{'copyright': '© Google', 'date': '2015-05', 'location': {'lat': 41.82712500370862, 'lng': 32.69399075296207}, 'pano_id': 'RsoKhyqI07p4LeUVqTRAdA', 'status': 'OK'}
+Point 41.82202835225426,32.70775360067304 update to: 41.8271428,32.6940178, has streetview!
+Other error occurred: No road found for -3.7542210845239734,156.15042442401386 (ZERO_RESULTS)
+No road found for -3.7542210845239734,156.15042442401386
+Other error occurred: No road found for -34.83638994382507,29.341993629770297 (ZERO_RESULTS)
+No road found for -34.83638994382507,29.341993629770297
+Other error occurred: No road found for 64.81572000849673,109.75767571473358 (ZERO_RESULTS)
+No road found for 64.81572000849673,109.75767571473358
+Other error occurred: No road found for -50.03506598514784,141.40293583622037 (ZERO_RESULTS)
+No road found for -50.03506598514784,141.40293583622037
+Other error occurred: No road found for 12.980363342034446,24.348144306988072 (ZERO_RESULTS)
+No road found for 12.980363342034446,24.348144306988072
+Other error occurred: No road found for 25.96166227141754,153.51450985309216 (ZERO_RESULTS)
+No road found for 25.96166227141754,153.51450985309216
+Other error occurred: No road found for -60.10537188385016,53.19601730101186 (ZERO_RESULTS)
+No road found for -60.10537188385016,53.19601730101186
+Other error occurred: No road found for 57.42635977529189,47.79128011403793 (ZERO_RESULTS)
+No road found for 57.42635977529189,47.79128011403793
+Other error occurred: No road found for -22.14285684811591,154.42177353664997 (ZERO_RESULTS)
+No road found for -22.14285684811591,154.42177353664997
+Other error occurred: No road found for -16.8816209366504,24.6864997553103 (ZERO_RESULTS)
+No road found for -16.8816209366504,24.6864997553103
+Other error occurred: No road found for 53.37189935481655,138.18741866872057 (ZERO_RESULTS)
+No road found for 53.37189935481655,138.18741866872057
+Other error occurred: No road found for -63.303082732897906,117.92605222892499 (ZERO_RESULTS)
+No road found for -63.303082732897906,117.92605222892499
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 31.17531959999999,27.7161773, (ZERO_RESULTS)
+No streetview found for any option: [(31.17531959999999, 27.7161773)]
+Other error occurred: No road found for 7.6807869568053775,156.30690370669907 (ZERO_RESULTS)
+No road found for 7.6807869568053775,156.30690370669907
+Other error occurred: No road found for -45.51787259039375,34.46576653633374 (ZERO_RESULTS)
+No road found for -45.51787259039375,34.46576653633374
+Other error occurred: No road found for 66.50061045271573,82.41364370794592 (ZERO_RESULTS)
+No road found for 66.50061045271573,82.41364370794592
+Other error occurred: No road found for -39.96987849626146,148.8891581247236 (ZERO_RESULTS)
+No road found for -39.96987849626146,148.8891581247236
+Other error occurred: No road found for 1.5785687088952671,23.380026108863284 (ZERO_RESULTS)
+No road found for 1.5785687088952671,23.380026108863284
+Other error occurred: No road found for 37.03531459136182,150.31544593104738 (ZERO_RESULTS)
+No road found for 37.03531459136182,150.31544593104738
+Other error occurred: No road found for -65.9246267467874,74.80558759858093 (ZERO_RESULTS)
+No road found for -65.9246267467874,74.80558759858093
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 48.3724727,36.3778197, (ZERO_RESULTS)
+No streetview found for any option: [(48.3724727, 36.3778197)]
+Other error occurred: No road found for -10.843156135968107,156.28633998348238 (ZERO_RESULTS)
+No road found for -10.843156135968107,156.28633998348238
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -28.1811852,26.5567624, (ZERO_RESULTS)
+No streetview found for any option: [(-28.1811852, 26.5567624)]
+Other error occurred: No road found for 61.7997757856028,123.89786012352666 (ZERO_RESULTS)
+No road found for 61.7997757856028,123.89786012352666
+Other error occurred: No road found for -56.069362507983236,135.3804491227155 (ZERO_RESULTS)
+No road found for -56.069362507983236,135.3804491227155
+Other error occurred: No road found for 20.05951648974195,24.743775699061366 (ZERO_RESULTS)
+No road found for 20.05951648974195,24.743775699061366
+Other error occurred: No road found for 19.105519300940475,155.43689384513434 (ZERO_RESULTS)
+No road found for 19.105519300940475,155.43689384513434
+Other error occurred: No road found for -55.36400599488445,43.45432058748336 (ZERO_RESULTS)
+No road found for -55.36400599488445,43.45432058748336
+Other error occurred: No road found for 62.47083807786727,57.59349939096157 (ZERO_RESULTS)
+No road found for 62.47083807786727,57.59349939096157
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -29.1629096,153.3831426, (ZERO_RESULTS)
+No streetview found for any option: [(-29.1629096, 153.3831426)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -9.9092089,23.4131329, (ZERO_RESULTS)
+No streetview found for any option: [(-9.9092089, 23.4131329)]
+Other error occurred: No road found for 47.650553918266695,144.66050164150042 (ZERO_RESULTS)
+No road found for 47.650553918266695,144.66050164150042
+Other error occurred: No road found for -66.49099647623883,103.11653248887639 (ZERO_RESULTS)
+No road found for -66.49099647623883,103.11653248887639
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 38.0672222,29.63172599999999, (ZERO_RESULTS)
+No streetview found for any option: [(38.0672222, 29.63172599999999)]
+Other error occurred: No road found for 0.6117021688464562,157.05172899283366 (ZERO_RESULTS)
+No road found for 0.6117021688464562,157.05172899283366
+Other error occurred: No road found for -39.23314769559031,30.098191027889282 (ZERO_RESULTS)
+No road found for -39.23314769559031,30.098191027889282
+Other error occurred: No road found for 66.85320855488489,100.19396415390406 (ZERO_RESULTS)
+No road found for 66.85320855488489,100.19396415390406
+Other error occurred: No road found for -46.635592337140665,145.6626359355152 (ZERO_RESULTS)
+No road found for -46.635592337140665,145.6626359355152
+Other error occurred: No road found for 8.687405462296613,23.124115789211825 (ZERO_RESULTS)
+No road found for 8.687405462296613,23.124115789211825
+Other error occurred: No road found for 30.408106191795586,153.32208682105198 (ZERO_RESULTS)
+No road found for 30.408106191795586,153.32208682105198
+Other error occurred: No road found for -63.40277460725097,59.41072202945655 (ZERO_RESULTS)
+No road found for -63.40277460725097,59.41072202945655
+{'copyright': '© Google', 'date': '2021-04', 'location': {'lat': 54.60244394127084, 'lng': 41.69716808167926}, 'pano_id': 'rIuuMQ-znTIztCTg4kyRtw', 'status': 'OK'}
+Point 54.60320423027819,41.704798418512844 update to: 54.6024062,41.6971986, has streetview!
+Other error occurred: No road found for -17.952431604613988,156.0330597347559 (ZERO_RESULTS)
+No road found for -17.952431604613988,156.0330597347559
+Other error occurred: No road found for -21.336905593211572,24.477499420445568 (ZERO_RESULTS)
+No road found for -21.336905593211572,24.477499420445568
+Other error occurred: No road found for 57.31832158740704,134.66348097559785 (ZERO_RESULTS)
+No road found for 57.31832158740704,134.66348097559785
+Other error occurred: No road found for -61.46605233268838,126.59946203838922 (ZERO_RESULTS)
+No road found for -61.46605233268838,126.59946203838922
+Other error occurred: No road found for 27.12519877067047,25.59866277931193 (ZERO_RESULTS)
+No road found for 27.12519877067047,25.59866277931193
+Other error occurred: No road found for 12.117041476109014,156.8383360567761 (ZERO_RESULTS)
+No road found for 12.117041476109014,156.8383360567761
+Other error occurred: No road found for -49.769705191537554,36.34668063122563 (ZERO_RESULTS)
+No road found for -49.769705191537554,36.34668063122563
+Other error occurred: No road found for 66.24838326688905,71.39819594907395 (ZERO_RESULTS)
+No road found for 66.24838326688905,71.39819594907395
+Other error occurred: No road found for -36.12780736735795,151.72703155291072 (ZERO_RESULTS)
+No road found for -36.12780736735795,151.72703155291072
+Other error occurred: No road found for -2.815487781460766,22.552722901733446 (ZERO_RESULTS)
+No road found for -2.815487781460766,22.552722901733446
+Other error occurred: No road found for 41.42841831574524,149.4099356257059 (ZERO_RESULTS)
+No road found for 41.42841831574524,149.4099356257059
+Other error occurred: No road found for -67.57767870828523,85.20747134405336 (ZERO_RESULTS)
+No road found for -67.57767870828523,85.20747134405336
+Other error occurred: No road found for 44.83852588963025,32.46285338046366 (ZERO_RESULTS)
+No road found for 44.83852588963025,32.46285338046366
+Other error occurred: No road found for -6.514508153157364,157.4231384765621 (ZERO_RESULTS)
+No road found for -6.514508153157364,157.4231384765621
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -32.6346983,26.8498577, (ZERO_RESULTS)
+No streetview found for any option: [(-32.6346983, 26.8498577)]
+Other error occurred: No road found for 64.89551356146012,116.83120707906266 (ZERO_RESULTS)
+No road found for 64.89551356146012,116.83120707906266
+Other error occurred: No road found for -53.040125439867325,140.96643504331368 (ZERO_RESULTS)
+No road found for -53.040125439867325,140.96643504331368
+Other error occurred: No road found for 15.823474818789665,23.243645355710342 (ZERO_RESULTS)
+No road found for 15.823474818789665,23.243645355710342
+Other error occurred: No road found for 23.574943610183,155.5694420583205 (ZERO_RESULTS)
+No road found for 23.574943610183,155.5694420583205
+Other error occurred: No road found for -59.22638410010218,47.49714376719185 (ZERO_RESULTS)
+No road found for -59.22638410010218,47.49714376719185
+Other error occurred: No road found for 60.305283755960296,49.5143183380799 (ZERO_RESULTS)
+No road found for 60.305283755960296,49.5143183380799
+Other error occurred: No road found for -25.057370042525918,155.34985209269306 (ZERO_RESULTS)
+No road found for -25.057370042525918,155.34985209269306
+Other error occurred: No road found for -14.349955724220177,22.947351482663173 (ZERO_RESULTS)
+No road found for -14.349955724220177,22.947351482663173
+Other error occurred: No road found for 51.871835108999086,142.49368722333736 (ZERO_RESULTS)
+No road found for 51.871835108999086,142.49368722333736
+Other error occurred: No road found for -65.7785883375443,113.93525995559001 (ZERO_RESULTS)
+No road found for -65.7785883375443,113.93525995559001
+Other error occurred: No road found for 34.14654585257075,27.012345127659792 (ZERO_RESULTS)
+No road found for 34.14654585257075,27.012345127659792
+Other error occurred: No road found for 5.031757100433627,157.80799715552038 (ZERO_RESULTS)
+No road found for 5.031757100433627,157.80799715552038
+Other error occurred: No road found for -43.61948749786535,31.168785854451492 (ZERO_RESULTS)
+No road found for -43.61948749786535,31.168785854451492
+Other error occurred: No road found for 68.07644220919711,89.06130432195947 (ZERO_RESULTS)
+No road found for 68.07644220919711,89.06130432195947
+Other error occurred: No road found for -42.985678509389786,149.26016801125124 (ZERO_RESULTS)
+No road found for -42.985678509389786,149.26016801125124
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 4.3347618,22.0634017, (ZERO_RESULTS)
+No streetview found for any option: [(4.3347618, 22.0634017)]
+Other error occurred: No road found for 34.866801536121486,152.92417417184748 (ZERO_RESULTS)
+No road found for 34.866801536121486,152.92417417184748
+Other error occurred: No road found for -66.25584532098796,67.41890781018365 (ZERO_RESULTS)
+No road found for -66.25584532098796,67.41890781018365
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 51.390834,36.5852297, (ZERO_RESULTS)
+No streetview found for any option: [(51.390834, 36.5852297)]
+Other error occurred: No road found for -13.674353084684519,157.4298237186121 (ZERO_RESULTS)
+No road found for -13.674353084684519,157.4298237186121
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -25.8468358,24.4274961, (ZERO_RESULTS)
+No streetview found for any option: [(-25.8468358, 24.4274961)]
+Other error occurred: No road found for 61.07778350379973,130.01920841160432 (ZERO_RESULTS)
+No road found for 61.07778350379973,130.01920841160432
+Other error occurred: No road found for -59.0051584521882,134.06094215371857 (ZERO_RESULTS)
+No road found for -59.0051584521882,134.06094215371857
+Other error occurred: No road found for 22.963392938814245,23.76810501685541 (ZERO_RESULTS)
+No road found for 22.963392938814245,23.76810501685541
+Other error occurred: No road found for 16.591596433533677,157.23299442413207 (ZERO_RESULTS)
+No road found for 16.591596433533677,157.23299442413207
+Other error occurred: No road found for -53.95275711947374,38.84136928896271 (ZERO_RESULTS)
+No road found for -53.95275711947374,38.84136928896271
+Other error occurred: No road found for 65.09334052336257,60.97287601565389 (ZERO_RESULTS)
+No road found for 65.09334052336257,60.97287601565389
+Other error occurred: No road found for -32.13011234655265,154.15462115783842 (ZERO_RESULTS)
+No road found for -32.13011234655265,154.15462115783842
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -7.2613033,21.8480515, (ZERO_RESULTS)
+No streetview found for any option: [(-7.2613033, 21.8480515)]
+Other error occurred: No road found for 45.80449885497168,148.15526422658718 (ZERO_RESULTS)
+No road found for 45.80449885497168,148.15526422658718
+Other error occurred: No road found for -68.33258605301873,96.89341251701454 (ZERO_RESULTS)
+No road found for -68.33258605301873,96.89341251701454
+{'copyright': '© Google', 'date': '2022-04', 'location': {'lat': 41.08294727994829, 'lng': 29.15512365264286}, 'pano_id': 'hYtGQwJmFMvuXUpEV5UkYQ', 'status': 'OK'}
+Point 41.0828881434512,29.155042680760875 update to: 41.0829212,29.1550673, has streetview!
+Other error occurred: No road found for -2.1223338629429387,158.40011243305037 (ZERO_RESULTS)
+No road found for -2.1223338629429387,158.40011243305037
+Other error occurred: No road found for -37.09820698970845,27.361558948450647 (ZERO_RESULTS)
+No road found for -37.09820698970845,27.361558948450647
+Other error occurred: No road found for 67.45843879967818,107.80876467371434 (ZERO_RESULTS)
+No road found for 67.45843879967818,107.80876467371434
+Other error occurred: No road found for -49.66628854343209,145.64468384783126 (ZERO_RESULTS)
+No road found for -49.66628854343209,145.64468384783126
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 11.5198793,21.9408701, (ZERO_RESULTS)
+No streetview found for any option: [(11.5198793, 21.9408701)]
+Other error occurred: No road found for 28.06770157128573,155.54204717133845 (ZERO_RESULTS)
+No road found for 28.06770157128573,155.54204717133845
+Other error occurred: No road found for -62.85966829467646,52.83904497981349 (ZERO_RESULTS)
+No road found for -62.85966829467646,52.83904497981349
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 57.568638,42.6900491, (ZERO_RESULTS)
+No streetview found for any option: [(57.568638, 42.6900491)]
+Other error occurred: No road found for -20.84543413249354,157.05264067877968 (ZERO_RESULTS)
+No road found for -20.84543413249354,157.05264067877968
+Other error occurred: No road found for -18.84116284332489,22.620694505800774 (ZERO_RESULTS)
+No road found for -18.84116284332489,22.620694505800774
+Other error occurred: No road found for 56.007388965025214,139.62030240684535 (ZERO_RESULTS)
+No road found for 56.007388965025214,139.62030240684535
+Other error occurred: No road found for -64.20874557549654,123.81169530206279 (ZERO_RESULTS)
+No road found for -64.20874557549654,123.81169530206279
+Other error occurred: No road found for 30.0817276913799,24.76407315288374 (ZERO_RESULTS)
+No road found for 30.0817276913799,24.76407315288374
+Other error occurred: No road found for 9.497944528188475,158.42945480175237 (ZERO_RESULTS)
+No road found for 9.497944528188475,158.42945480175237
+Other error occurred: No road found for -47.98131520590712,32.630464829165916 (ZERO_RESULTS)
+No road found for -47.98131520590712,32.630464829165916
+Other error occurred: No road found for 68.33622170857481,77.06169033544938 (ZERO_RESULTS)
+No road found for 68.33622170857481,77.06169033544938
+Other error occurred: No road found for -39.13529704061275,152.30390160463023 (ZERO_RESULTS)
+No road found for -39.13529704061275,152.30390160463023
+Other error occurred: No road found for -0.09464466995228106,21.166088850991095 (ZERO_RESULTS)
+No road found for -0.09464466995228106,21.166088850991095
+Other error occurred: No road found for 39.32950851930892,152.28797319662723 (ZERO_RESULTS)
+No road found for 39.32950851930892,152.28797319662723
+Other error occurred: No road found for -68.47549013038905,77.49253169299581 (ZERO_RESULTS)
+No road found for -68.47549013038905,77.49253169299581
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 47.86541630000001,32.3208565, (ZERO_RESULTS)
+No streetview found for any option: [(47.86541630000001, 32.3208565)]
+Other error occurred: No road found for -9.321722315915336,158.64049173581358 (ZERO_RESULTS)
+No road found for -9.321722315915336,158.64049173581358
+Other error occurred: No road found for -30.320797545181264,24.535958356640744 (ZERO_RESULTS)
+No road found for -30.320797545181264,24.535958356640744
+Other error occurred: No road found for 64.55617221940813,123.86997970204516 (ZERO_RESULTS)
+No road found for 64.55617221940813,123.86997970204516
+Other error occurred: No road found for -56.04934753590805,140.31485101493482 (ZERO_RESULTS)
+No road found for -56.04934753590805,140.31485101493482
+Other error occurred: No road found for 18.705451500815684,22.18320019763481 (ZERO_RESULTS)
+No road found for 18.705451500815684,22.18320019763481
+Other error occurred: No road found for 21.097886161729523,157.49125771043282 (ZERO_RESULTS)
+No road found for 21.097886161729523,157.49125771043282
+Other error occurred: No road found for -58.029490111882346,42.15509719920783 (ZERO_RESULTS)
+No road found for -58.029490111882346,42.15509719920783
+Other error occurred: No road found for 63.14349482594601,51.75089780349751 (ZERO_RESULTS)
+No road found for 63.14349482594601,51.75089780349751
+Other error occurred: No road found for -28.00426159429568,156.23886543964952 (ZERO_RESULTS)
+No road found for -28.00426159429568,156.23886543964952
+Other error occurred: No road found for -11.746103730922666,21.30805720204756 (ZERO_RESULTS)
+No road found for -11.746103730922666,21.30805720204756
+Other error occurred: No road found for 50.14743647944524,146.4587939670629 (ZERO_RESULTS)
+No road found for 50.14743647944524,146.4587939670629
+Other error occurred: No road found for -68.08599149912943,108.92886639230865 (ZERO_RESULTS)
+No road found for -68.08599149912943,108.92886639230865
+Other error occurred: No road found for 37.14743183829164,26.351562875125303 (ZERO_RESULTS)
+No road found for 37.14743183829164,26.351562875125303
+Other error occurred: No road found for 2.324154490744627,159.2336036593445 (ZERO_RESULTS)
+No road found for 2.324154490744627,159.2336036593445
+Other error occurred: No road found for -41.55948160262592,28.133758415292185 (ZERO_RESULTS)
+No road found for -41.55948160262592,28.133758415292185
+Other error occurred: No road found for 69.27831616891466,96.70673009581388 (ZERO_RESULTS)
+No road found for 69.27831616891466,96.70673009581388
+Other error occurred: No road found for -46.02236001828184,149.55481262047851 (ZERO_RESULTS)
+No road found for -46.02236001828184,149.55481262047851
+Other error occurred: No road found for 7.120953702645894,20.81645989553086 (ZERO_RESULTS)
+No road found for 7.120953702645894,20.81645989553086
+Other error occurred: No road found for 32.57727947671601,155.33990718737522 (ZERO_RESULTS)
+No road found for 32.57727947671601,155.33990718737522
+Other error occurred: No road found for -66.14780358608633,59.91633450727609 (ZERO_RESULTS)
+No road found for -66.14780358608633,59.91633450727609
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 54.4337946,36.9746965, (ZERO_RESULTS)
+No streetview found for any option: [(54.4337946, 36.9746965)]
+Other error occurred: No road found for -16.54521877508213,158.52865402046632 (ZERO_RESULTS)
+No road found for -16.54521877508213,158.52865402046632
+Other error occurred: No road found for -23.361024242552283,22.431751195962004 (ZERO_RESULTS)
+No road found for -23.361024242552283,22.431751195962004
+Other error occurred: No road found for 60.01131775219532,135.79142833393234 (ZERO_RESULTS)
+No road found for 60.01131775219532,135.79142833393234
+Other error occurred: No road found for -61.91720032490857,132.32282393147588 (ZERO_RESULTS)
+No road found for -61.91720032490857,132.32282393147588
+Other error occurred: No road found for 25.900276104853425,22.829931829810374 (ZERO_RESULTS)
+No road found for 25.900276104853425,22.829931829810374
+Other error occurred: No road found for 14.003217682823607,158.92310233758352 (ZERO_RESULTS)
+No road found for 14.003217682823607,158.92310233758352
+Other error occurred: No road found for -52.299892260284,34.5955288362733 (ZERO_RESULTS)
+No road found for -52.299892260284,34.5955288362733
+Other error occurred: No road found for 67.58922182314433,65.27130055193501 (ZERO_RESULTS)
+No road found for 67.58922182314433,65.27130055193501
+Other error occurred: No road found for -35.12327877833318,154.88903150044766 (ZERO_RESULTS)
+No road found for -35.12327877833318,154.88903150044766
+Other error occurred: No road found for -4.565238361536023,20.39930433553591 (ZERO_RESULTS)
+No road found for -4.565238361536023,20.39930433553591
+Other error occurred: No road found for 43.78676997243687,151.36533995645692 (ZERO_RESULTS)
+No road found for 43.78676997243687,151.36533995645692
+Other error occurred: No road found for -69.83997477158637,89.51651852447878 (ZERO_RESULTS)
+No road found for -69.83997477158637,89.51651852447878
+Other error occurred: No road found for 44.1176798568702,28.73564408125413 (ZERO_RESULTS)
+No road found for 44.1176798568702,28.73564408125413
+Other error occurred: No road found for -4.905527868839711,159.68850578652936 (ZERO_RESULTS)
+No road found for -4.905527868839711,159.68850578652936
+Other error occurred: No road found for -34.83630534523878,24.833529727026775 (ZERO_RESULTS)
+No road found for -34.83630534523878,24.833529727026775
+Other error occurred: No road found for 67.61090594141893,115.73967758986534 (ZERO_RESULTS)
+No road found for 67.61090594141893,115.73967758986534
+Other error occurred: No road found for -52.71047920047152,145.49309572923985 (ZERO_RESULTS)
+No road found for -52.71047920047152,145.49309572923985
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 14.3399428,20.802454, (ZERO_RESULTS)
+No streetview found for any option: [(14.3399428, 20.802454)]
+Other error occurred: No road found for 25.629856061492386,157.60936908852466 (ZERO_RESULTS)
+No road found for 25.629856061492386,157.60936908852466
+Other error occurred: No road found for -61.943178274984156,46.58968645293075 (ZERO_RESULTS)
+No road found for -61.943178274984156,46.58968645293075
+Other error occurred: No road found for 60.54909264092642,43.96518182747843 (ZERO_RESULTS)
+No road found for 60.54909264092642,43.96518182747843
+Other error occurred: No road found for -23.772064096043717,158.03555073832317 (ZERO_RESULTS)
+No road found for -23.772064096043717,158.03555073832317
+Other error occurred: No road found for -16.268524872858865,20.876699453639585 (ZERO_RESULTS)
+No road found for -16.268524872858865,20.876699453639585
+Other error occurred: No road found for 54.43509977984201,144.1838239571735 (ZERO_RESULTS)
+No road found for 54.43509977984201,144.1838239571735
+Other error occurred: No road found for -66.8606714782717,120.22632853366589 (ZERO_RESULTS)
+No road found for -66.8606714782717,120.22632853366589
+Other error occurred: No road found for 33.066352378755504,23.964793361132898 (ZERO_RESULTS)
+No road found for 33.066352378755504,23.964793361132898
+Other error occurred: No road found for 6.81700269753917,159.93649621457044 (ZERO_RESULTS)
+No road found for 6.81700269753917,159.93649621457044
+Other error occurred: No road found for -46.00984419974339,29.22432950301634 (ZERO_RESULTS)
+No road found for -46.00984419974339,29.22432950301634
+Other error occurred: No road found for 70.13868611654465,83.96566665623317 (ZERO_RESULTS)
+No road found for 70.13868611654465,83.96566665623317
+Other error occurred: No road found for -42.16591671053861,152.83089818541146 (ZERO_RESULTS)
+No road found for -42.16591671053861,152.83089818541146
+Other error occurred: No road found for 2.6765593286382305,19.842344127885017 (ZERO_RESULTS)
+No road found for 2.6765593286382305,19.842344127885017
+Other error occurred: No road found for 37.09699908672307,154.93984406410317 (ZERO_RESULTS)
+No road found for 37.09699908672307,154.93984406410317
+Other error occurred: No road found for -68.91740931106754,69.21503119482794 (ZERO_RESULTS)
+No road found for -68.91740931106754,69.21503119482794
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 50.9189611,32.2732211, (ZERO_RESULTS)
+No streetview found for any option: [(50.9189611, 32.2732211)]
+Other error occurred: No road found for -12.17030454064338,159.81063551396886 (ZERO_RESULTS)
+No road found for -12.17030454064338,159.81063551396886
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -27.9146826,22.3737284, (ZERO_RESULTS)
+No streetview found for any option: [(-27.9146826, 22.3737284)]
+Other error occurred: No road found for 63.812849935762166,130.642157750968 (ZERO_RESULTS)
+No road found for 63.812849935762166,130.642157750968
+Other error occurred: No road found for -59.057153675916894,139.40000974490277 (ZERO_RESULTS)
+No road found for -59.057153675916894,139.40000974490277
+Other error occurred: No road found for 21.62168307745274,21.159237668999406 (ZERO_RESULTS)
+No road found for 21.62168307745274,21.159237668999406
+Other error occurred: No road found for 18.541302298088485,159.29268974995887 (ZERO_RESULTS)
+No road found for 18.541302298088485,159.29268974995887
+Other error occurred: No road found for -56.5486745516717,37.23113286589014 (ZERO_RESULTS)
+No road found for -56.5486745516717,37.23113286589014
+Other error occurred: No road found for 65.92031899824347,54.65533626589852 (ZERO_RESULTS)
+No road found for 65.92031899824347,54.65533626589852
+Other error occurred: No road found for -30.97975692624482,157.09558652280992 (ZERO_RESULTS)
+No road found for -30.97975692624482,157.09558652280992
+Other error occurred: No road found for -9.078611518796885,19.75787602074952 (ZERO_RESULTS)
+No road found for -9.078611518796885,19.75787602074952
+Other error occurred: No road found for 48.226948142688244,150.08553880045778 (ZERO_RESULTS)
+No road found for 48.226948142688244,150.08553880045778
+Other error occurred: No road found for -70.16129568013298,102.67708415297578 (ZERO_RESULTS)
+No road found for -70.16129568013298,102.67708415297578
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 40.1546057,25.7434009, (ZERO_RESULTS)
+No streetview found for any option: [(40.1546057, 25.7434009)]
+Other error occurred: No road found for -0.4350791303004166,160.59302797373195 (ZERO_RESULTS)
+No road found for -0.4350791303004166,160.59302797373195
+Other error occurred: No road found for -39.358434204466874,25.344712455281357 (ZERO_RESULTS)
+No road found for -39.358434204466874,25.344712455281357
+Other error occurred: No road found for 70.03523921605112,105.19022478320353 (ZERO_RESULTS)
+No road found for 70.03523921605112,105.19022478320353
+Other error occurred: No road found for -49.077272653915166,149.76896251742988 (ZERO_RESULTS)
+No road found for -49.077272653915166,149.76896251742988
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 9.9651195,19.6452352, (ZERO_RESULTS)
+No streetview found for any option: [(9.9651195, 19.6452352)]
+Other error occurred: No road found for 30.181786447654044,157.5785871593135 (ZERO_RESULTS)
+No road found for 30.181786447654044,157.5785871593135
+Other error occurred: No road found for -65.60485926958381,52.58303265471996 (ZERO_RESULTS)
+No road found for -65.60485926958381,52.58303265471996
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 57.45777859999999,37.5563963, (ZERO_RESULTS)
+No streetview found for any option: [(57.45777859999999, 37.5563963)]
+Other error occurred: No road found for -19.45098474774693,159.59063444870037 (ZERO_RESULTS)
+No road found for -19.45098474774693,159.59063444870037
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -20.8174125,20.5816962, (ZERO_RESULTS)
+No streetview found for any option: [(-20.8174125, 20.5816962)]
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 58.61411769999999,141.1800566, (ZERO_RESULTS)
+No streetview found for any option: [(58.61411769999999, 141.1800566)]
+Other error occurred: No road found for -64.7908691582558,130.04213890938496 (ZERO_RESULTS)
+No road found for -64.7908691582558,130.04213890938496
+Other error occurred: No road found for 28.866240795182527,21.92204123791181 (ZERO_RESULTS)
+No road found for 28.866240795182527,21.92204123791181
+Other error occurred: No road found for 11.349281052032739,160.51851131259568 (ZERO_RESULTS)
+No road found for 11.349281052032739,160.51851131259568
+Other error occurred: No road found for -50.43602883644971,30.71937159448028 (ZERO_RESULTS)
+No road found for -50.43602883644971,30.71937159448028
+Other error occurred: No road found for 69.90564593408021,70.74360845043888 (ZERO_RESULTS)
+No road found for 69.90564593408021,70.74360845043888
+Other error occurred: No road found for -38.14081464808093,155.58950407165668 (ZERO_RESULTS)
+No road found for -38.14081464808093,155.58950407165668
+Other error occurred: No road found for -1.8179566708728683,19.003554175478076 (ZERO_RESULTS)
+No road found for -1.8179566708728683,19.003554175478076
+Other error occurred: No road found for 41.61961339375206,154.30702575043355 (ZERO_RESULTS)
+No road found for 41.61961339375206,154.30702575043355
+Other error occurred: No road found for -70.92987336458404,81.03070366149923 (ZERO_RESULTS)
+No road found for -70.92987336458404,81.03070366149923
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 47.17710109999999,28.387167, (ZERO_RESULTS)
+No streetview found for any option: [(47.17710109999999, 28.387167)]
+Other error occurred: No road found for -7.731956731747087,160.9255311852186 (ZERO_RESULTS)
+No road found for -7.731956731747087,160.9255311852186
+Other error occurred: No road found for -32.46349229721225,22.497061089830865 (ZERO_RESULTS)
+No road found for -32.46349229721225,22.497061089830865
+Other error occurred: No road found for 67.29961982976566,123.6547771048807 (ZERO_RESULTS)
+No road found for 67.29961982976566,123.6547771048807
+Other error occurred: No road found for -55.76491390792459,145.1856761743105 (ZERO_RESULTS)
+No road found for -55.76491390792459,145.1856761743105
+Other error occurred: No road found for 17.261640720605463,19.710372043060683 (ZERO_RESULTS)
+No road found for 17.261640720605463,19.710372043060683
+Other error occurred: No road found for 23.10654176364492,159.5384980861429 (ZERO_RESULTS)
+No road found for 23.10654176364492,159.5384980861429
+Other error occurred: No road found for -60.687762772066286,40.790609535955255 (ZERO_RESULTS)
+No road found for -60.687762772066286,40.790609535955255
+{'copyright': '© Google', 'date': '2021-06', 'location': {'lat': 63.50953143117415, 'lng': 45.75632065823423}, 'pano_id': 'jwo1QknBegdRwP-aXVo2Kw', 'status': 'OK'}
+Point 63.49556241772637,45.69237766318289 update to: 63.50953130000001,45.75626190000001, has streetview!
+Other error occurred: No road found for -26.72824396821523,158.98934238722114 (ZERO_RESULTS)
+No road found for -26.72824396821523,158.98934238722114
+Other error occurred: No road found for -13.62827488349686,19.233594074654256 (ZERO_RESULTS)
+No road found for -13.62827488349686,19.233594074654256
+Other error occurred: No road found for 52.63464356283274,148.34331459569339 (ZERO_RESULTS)
+No road found for 52.63464356283274,148.34331459569339
+Other error occurred: No road found for -69.38091641961465,115.59497553917554 (ZERO_RESULTS)
+No road found for -69.38091641961465,115.59497553917554
+Other error occurred: No road found for 36.075771938769286,23.194327693513152 (ZERO_RESULTS)
+No road found for 36.075771938769286,23.194327693513152
+Other error occurred: No road found for 4.081659593694429,161.36953285662756 (ZERO_RESULTS)
+No road found for 4.081659593694429,161.36953285662756
+Other error occurred: No road found for -43.8794428035889,26.1119811686648 (ZERO_RESULTS)
+No road found for -43.8794428035889,26.1119811686648
+Other error occurred: No road found for 71.56747084797311,92.19931596077893 (ZERO_RESULTS)
+No road found for 71.56747084797311,92.19931596077893
+Other error occurred: No road found for -45.21701914653608,153.31041641825323 (ZERO_RESULTS)
+No road found for -45.21701914653608,153.31041641825323
+Other error occurred: No road found for 5.492008383594517,18.572605375550914 (ZERO_RESULTS)
+No road found for 5.492008383594517,18.572605375550914
+Other error occurred: No road found for 34.74809060790994,157.38379091141715 (ZERO_RESULTS)
+No road found for 34.74809060790994,157.38379091141715
+Other error occurred: No road found for -68.87250787604404,60.73079513942323 (ZERO_RESULTS)
+No road found for -68.87250787604404,60.73079513942323
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 53.9888103,32.3670805, (ZERO_RESULTS)
+No streetview found for any option: [(53.9888103, 32.3670805)]
+Other error occurred: No road found for -15.055164852984,160.94177742407595 (ZERO_RESULTS)
+No road found for -15.055164852984,160.94177742407595
+Other error occurred: No road found for -25.397710585857574,20.385987268891476 (ZERO_RESULTS)
+No road found for -25.397710585857574,20.385987268891476
+Other error occurred: No road found for 62.697727491383176,136.96875205368949 (ZERO_RESULTS)
+No road found for 62.697727491383176,136.96875205368949
+Other error occurred: No road found for -62.05659199284728,138.1524358077038 (ZERO_RESULTS)
+No road found for -62.05659199284728,138.1524358077038
+Other error occurred: No road found for 24.56793932359348,20.163943045562736 (ZERO_RESULTS)
+No road found for 24.56793932359348,20.163943045562736
+Other error occurred: No road found for 15.914899569051999,160.98636991988494 (ZERO_RESULTS)
+No road found for 15.914899569051999,160.98636991988494
+Other error occurred: No road found for -54.81983514950087,32.74823708149269 (ZERO_RESULTS)
+No road found for -54.81983514950087,32.74823708149269
+Other error occurred: No road found for 68.60579283124595,58.44763607576214 (ZERO_RESULTS)
+No road found for 68.60579283124595,58.44763607576214
+Other error occurred: No road found for -33.98040633817142,157.92716797350064 (ZERO_RESULTS)
+No road found for -33.98040633817142,157.92716797350064
+Other error occurred: No road found for -6.355202232698957,18.286276257785072 (ZERO_RESULTS)
+No road found for -6.355202232698957,18.286276257785072
+Other error occurred: No road found for 46.13669903052705,153.38966313587014 (ZERO_RESULTS)
+No road found for 46.13669903052705,153.38966313587014
+Other error occurred: No road found for -71.91952053059036,94.96792024097485 (ZERO_RESULTS)
+No road found for -71.91952053059036,94.96792024097485
+Other error occurred: No road found for 43.217963892844594,25.14803590938257 (ZERO_RESULTS)
+No road found for 43.217963892844594,25.14803590938257
+Other error occurred: No road found for -3.2396260366734073,161.8954417453929 (ZERO_RESULTS)
+No road found for -3.2396260366734073,161.8954417453929
+Other error occurred: No road found for -37.03486139804607,22.782111892619966 (ZERO_RESULTS)
+No road found for -37.03486139804607,22.782111892619966
+Other error occurred: No road found for 70.29308707749784,114.17638408353231 (ZERO_RESULTS)
+No road found for 70.29308707749784,114.17638408353231
+Other error occurred: No road found for -52.14795944369527,149.8960159557626 (ZERO_RESULTS)
+No road found for -52.14795944369527,149.8960159557626
+Other error occurred: No road found for 12.832932581223272,18.449267754049135 (ZERO_RESULTS)
+No road found for 12.832932581223272,18.449267754049135
+Other error occurred: No road found for 27.693754239380237,159.6568568975386 (ZERO_RESULTS)
+No road found for 27.693754239380237,159.6568568975386
+Other error occurred: No road found for -64.65386461633497,45.6628528996841 (ZERO_RESULTS)
+No road found for -64.65386461633497,45.6628528996841
+Other error occurred: No road found for 60.49416547798921,38.39775004865346 (ZERO_RESULTS)
+No road found for 60.49416547798921,38.39775004865346
+Other error occurred: No road found for -22.387268331562623,160.6237898640221 (ZERO_RESULTS)
+No road found for -22.387268331562623,160.6237898640221
+Other error occurred: No road found for -18.208500611578668,18.821224133388498 (ZERO_RESULTS)
+No road found for -18.208500611578668,18.821224133388498
+Other error occurred: No road found for 56.98796258996771,145.97873927004684 (ZERO_RESULTS)
+No road found for 56.98796258996771,145.97873927004684
+Other error occurred: No road found for -67.60522286655198,127.03805885114606 (ZERO_RESULTS)
+No road found for -67.60522286655198,127.03805885114606
+Other error occurred: No road found for 31.857685050825125,21.036805266162037 (ZERO_RESULTS)
+No road found for 31.857685050825125,21.036805266162037
+Other error occurred: No road found for 8.637812559392335,162.03027387466057 (ZERO_RESULTS)
+No road found for 8.637812559392335,162.03027387466057
+Other error occurred: No road found for -48.389986171826145,27.198598914505716 (ZERO_RESULTS)
+No road found for -48.389986171826145,27.198598914505716
+Other error occurred: No road found for 71.9680234426851,77.68530951231885 (ZERO_RESULTS)
+No road found for 71.9680234426851,77.68530951231885
+Other error occurred: No road found for -41.17985055261136,156.26197816506738 (ZERO_RESULTS)
+No road found for -41.17985055261136,156.26197816506738
+Other error occurred: No road found for 0.975769692928225,17.66819063211168 (ZERO_RESULTS)
+No road found for 0.975769692928225,17.66819063211168
+Other error occurred: No road found for 39.32305515977605,157.001224262872 (ZERO_RESULTS)
+No road found for 39.32305515977605,157.001224262872
+Other error occurred: No road found for -71.52493107931399,71.68769409283941 (ZERO_RESULTS)
+No road found for -71.52493107931399,71.68769409283941
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 50.2397463,28.0822028, (ZERO_RESULTS)
+No streetview found for any option: [(50.2397463, 28.0822028)]
+Other error occurred: No road found for -10.596197636822705,162.11979435340487 (ZERO_RESULTS)
+No road found for -10.596197636822705,162.11979435340487
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -30.0072582,20.3419811, (ZERO_RESULTS)
+No streetview found for any option: [(-30.0072582, 20.3419811)]
+Other error occurred: No road found for 66.54162752269441,131.23353275242357 (ZERO_RESULTS)
+No road found for 66.54162752269441,131.23353275242357
+Other error occurred: No road found for -58.82609113568691,144.6903869115567 (ZERO_RESULTS)
+No road found for -58.82609113568691,144.6903869115567
+Other error occurred: No road found for 20.18797180962576,18.64233993939739 (ZERO_RESULTS)
+No road found for 20.18797180962576,18.64233993939739
+Other error occurred: No road found for 20.508458717497184,161.3437994964196 (ZERO_RESULTS)
+No road found for 20.508458717497184,161.3437994964196
+Other error occurred: No road found for -59.13446823721971,35.509964520547825 (ZERO_RESULTS)
+No road found for -59.13446823721971,35.509964520547825
+Other error occurred: No road found for 66.40690271678959,47.98905444078751 (ZERO_RESULTS)
+No road found for 66.40690271678959,47.98905444078751
+Other error occurred: No road found for -29.710219107503026,159.9219853535094 (ZERO_RESULTS)
+No road found for -29.710219107503026,159.9219853535094
+Other error occurred: No road found for -10.928768913665127,17.679733251362606 (ZERO_RESULTS)
+No road found for -10.928768913665127,17.679733251362606
+Other error occurred: No road found for 50.63767913686037,152.11020745117327 (ZERO_RESULTS)
+No road found for 50.63767913686037,152.11020745117327
+Other error occurred: No road found for -71.70934527746248,109.59060844507857 (ZERO_RESULTS)
+No road found for -71.70934527746248,109.59060844507857
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 39.1054722,22.4433869, (ZERO_RESULTS)
+No streetview found for any option: [(39.1054722, 22.4433869)]
+Other error occurred: No road found for 1.2986718926163459,162.73842307564527 (ZERO_RESULTS)
+No road found for 1.2986718926163459,162.73842307564527
+Other error occurred: No road found for -41.61187760417445,23.271118239611784 (ZERO_RESULTS)
+No road found for -41.61187760417445,23.271118239611784
+Other error occurred: No road found for 72.52679671382846,101.66043601821717 (ZERO_RESULTS)
+No road found for 72.52679671382846,101.66043601821717
+Other error occurred: No road found for -48.28621702955184,153.74449647352876 (ZERO_RESULTS)
+No road found for -48.28621702955184,153.74449647352876
+Other error occurred: No road found for 8.34610647857962,17.34804750863345 (ZERO_RESULTS)
+No road found for 8.34610647857962,17.34804750863345
+Other error occurred: No road found for 32.298086838534374,159.63928033377363 (ZERO_RESULTS)
+No road found for 32.298086838534374,159.63928033377363
+Other error occurred: No road found for -68.3420311719073,52.43984549237499 (ZERO_RESULTS)
+No road found for -68.3420311719073,52.43984549237499
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 57.0616923,32.5261163, (ZERO_RESULTS)
+No streetview found for any option: [(57.0616923, 32.5261163)]
+Other error occurred: No road found for -17.9716163573216,162.04227714022264 (ZERO_RESULTS)
+No road found for -17.9716163573216,162.04227714022264
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -22.816576,18.5096727, (ZERO_RESULTS)
+No streetview found for any option: [(-22.816576, 18.5096727)]
+Other error occurred: No road found for 61.25355425198781,142.74238974563585 (ZERO_RESULTS)
+No road found for 61.25355425198781,142.74238974563585
+Other error occurred: No road found for -65.03839231901142,136.46955056623227 (ZERO_RESULTS)
+No road found for -65.03839231901142,136.46955056623227
+Other error occurred: No road found for 27.54031423293252,19.1891008685645 (ZERO_RESULTS)
+No road found for 27.54031423293252,19.1891008685645
+Other error occurred: No road found for 13.227395586772975,162.58461916607348 (ZERO_RESULTS)
+No road found for 13.227395586772975,162.58461916607348
+Other error occurred: No road found for -52.87784773174616,28.700093500221275 (ZERO_RESULTS)
+No road found for -52.87784773174616,28.700093500221275
+Other error occurred: No road found for 71.15497176818981,63.439963773741226 (ZERO_RESULTS)
+No road found for 71.15497176818981,63.439963773741226
+Other error occurred: No road found for -37.00303977825931,158.74136004682572 (ZERO_RESULTS)
+No road found for -37.00303977825931,158.74136004682572
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -3.5803925,16.883356, (ZERO_RESULTS)
+No streetview found for any option: [(-3.5803925, 16.883356)]
+Other error occurred: No road found for 43.90047039521184,156.39482409541364 (ZERO_RESULTS)
+No road found for 43.90047039521184,156.39482409541364
+Other error occurred: No road found for -73.25605941054623,85.71386788748272 (ZERO_RESULTS)
+No road found for -73.25605941054623,85.71386788748272
+{'copyright': '© Visit Mures', 'date': '2021-07', 'location': {'lat': 46.28210495517012, 'lng': 24.59659440468952}, 'pano_id': 'CAoSLEFGMVFpcE5OS3NFbGZIMloyY09xaS1kZ1pRZWpMT25JZ3NFaUpKX3RWdE1Z', 'status': 'OK'}
+Point 46.28238812971333,24.596179424502463 update to: 46.2821079,24.5965831, has streetview!
+Other error occurred: No road found for -6.083710738363437,163.14991317911995 (ZERO_RESULTS)
+No road found for -6.083710738363437,163.14991317911995
+Other error occurred: No road found for -34.60520610331805,20.424791340037487 (ZERO_RESULTS)
+No road found for -34.60520610331805,20.424791340037487
+Other error occurred: No road found for 70.03030563624179,123.20338594296729 (ZERO_RESULTS)
+No road found for 70.03030563624179,123.20338594296729
+Other error occurred: No road found for -55.23210650207869,149.9259179245958 (ZERO_RESULTS)
+No road found for -55.23210650207869,149.9259179245958
+Other error occurred: No road found for 15.739617037978066,17.3182045452626 (ZERO_RESULTS)
+No road found for 15.739617037978066,17.3182045452626
+Other error occurred: No road found for 25.125123748070862,161.591346312215 (ZERO_RESULTS)
+No road found for 25.125123748070862,161.591346312215
+Other error occurred: No road found for -63.33772862271771,39.319235324168616 (ZERO_RESULTS)
+No road found for -63.33772862271771,39.319235324168616
+Other error occurred: No road found for 63.52522975838005,39.56082179610953 (ZERO_RESULTS)
+No road found for 63.52522975838005,39.56082179610953
+Other error occurred: No road found for -25.350014305939883,161.63651481912714 (ZERO_RESULTS)
+No road found for -25.350014305939883,161.63651481912714
+Other error occurred: No road found for -15.533058904398773,17.17591585010143 (ZERO_RESULTS)
+No road found for -15.533058904398773,17.17591585010143
+Other error occurred: No road found for 55.108153494955786,150.35025554792435 (ZERO_RESULTS)
+No road found for 55.108153494955786,150.35025554792435
+Other error occurred: No road found for -70.32879493109895,123.04296254685431 (ZERO_RESULTS)
+No road found for -70.32879493109895,123.04296254685431
+Other error occurred: No road found for 34.8712814983715,20.16596238070786 (ZERO_RESULTS)
+No road found for 34.8712814983715,20.16596238070786
+Other error occurred: No road found for 5.876070135985425,163.4691333225608 (ZERO_RESULTS)
+No road found for 5.876070135985425,163.4691333225608
+Other error occurred: No road found for -46.187886399084896,24.008375172114917 (ZERO_RESULTS)
+No road found for -46.187886399084896,24.008375172114917
+Other error occurred: No road found for 73.67485959458698,86.3639644244584 (ZERO_RESULTS)
+No road found for 73.67485959458698,86.3639644244584
+Other error occurred: No road found for -44.23777253358202,156.91296682694738 (ZERO_RESULTS)
+No road found for -44.23777253358202,156.91296682694738
+Other error occurred: No road found for 3.8099779455354823,16.383871468056203 (ZERO_RESULTS)
+No road found for 3.8099779455354823,16.383871468056203
+Other error occurred: No road found for 36.91484747686808,159.4710202260651 (ZERO_RESULTS)
+No road found for 36.91484747686808,159.4710202260651
+Other error occurred: No road found for -71.57443960909981,61.95962167313972 (ZERO_RESULTS)
+No road found for -71.57443960909981,61.95962167313972
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 53.3257842,27.8440172, (ZERO_RESULTS)
+No streetview found for any option: [(53.3257842, 27.8440172)]
+Other error occurred: No road found for -13.493256818944097,163.2799631657391 (ZERO_RESULTS)
+No road found for -13.493256818944097,163.2799631657391
+Other error occurred: No road found for -27.44073652880032,18.326888977972096 (ZERO_RESULTS)
+No road found for -27.44073652880032,18.326888977972096
+Other error occurred: No road found for 65.37716395443715,138.23486431916567 (ZERO_RESULTS)
+No road found for 65.37716395443715,138.23486431916567
+Other error occurred: No road found for -61.88998404459179,143.96018933010228 (ZERO_RESULTS)
+No road found for -61.88998404459179,143.96018933010228
+Other error occurred: No road found for 23.141138385247324,17.595283042944796 (ZERO_RESULTS)
+No road found for 23.141138385247324,17.595283042944796
+Other error occurred: No road found for 17.845163727988552,163.0392513869809 (ZERO_RESULTS)
+No road found for 17.845163727988552,163.0392513869809
+Other error occurred: No road found for -57.32570737670835,30.76429676513437 (ZERO_RESULTS)
+No road found for -57.32570737670835,30.76429676513437
+Other error occurred: No road found for 69.262254054985,51.06644458451548 (ZERO_RESULTS)
+No road found for 69.262254054985,51.06644458451548
+Other error occurred: No road found for -32.714506010447344,160.8420817495035 (ZERO_RESULTS)
+No road found for -32.714506010447344,160.8420817495035
+Other error occurred: No road found for -8.1775459161104,16.203834936039605 (ZERO_RESULTS)
+No road found for -8.1775459161104,16.203834936039605
+Other error occurred: No road found for 48.473057357345496,155.5101101395612 (ZERO_RESULTS)
+No road found for 48.473057357345496,155.5101101395612
+Other error occurred: No road found for -73.75790372369885,101.82486553528241 (ZERO_RESULTS)
+No road found for -73.75790372369885,101.82486553528241
+{'copyright': '© Google', 'date': '2015-06', 'location': {'lat': 42.15792486404052, 'lng': 21.7106889474244}, 'pano_id': 'k1RnkD7yuS37UwhjgS6Vxg', 'status': 'OK'}
+Point 42.157179841201405,21.71103835228624 update to: 42.1579723,21.7108478, has streetview!
+Other error occurred: No road found for -1.5258007593884124,164.0528211612432 (ZERO_RESULTS)
+No road found for -1.5258007593884124,164.0528211612432
+Other error occurred: No road found for -39.22641372984872,20.676496292074415 (ZERO_RESULTS)
+No road found for -39.22641372984872,20.676496292074415
+Other error occurred: No road found for 72.93406015467393,111.95702933205385 (ZERO_RESULTS)
+No road found for 72.93406015467393,111.95702933205385
+Other error occurred: No road found for -51.371355986360186,154.13479984316803 (ZERO_RESULTS)
+No road found for -51.371355986360186,154.13479984316803
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 11.2737375,16.1560843, (ZERO_RESULTS)
+No streetview found for any option: [(11.2737375, 16.1560843)]
+Other error occurred: No road found for 29.76051107002876,161.72592621189733 (ZERO_RESULTS)
+No road found for 29.76051107002876,161.72592621189733
+Other error occurred: No road found for -67.3587907360234,44.68510569694514 (ZERO_RESULTS)
+No road found for -67.3587907360234,44.68510569694514
+Other error occurred: No road found for 60.151988507349614,32.920761658900105 (ZERO_RESULTS)
+No road found for 60.151988507349614,32.920761658900105
+Other error occurred: No road found for -20.915312195619048,163.12077470715877 (ZERO_RESULTS)
+No road found for -20.915312195619048,163.12077470715877
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -20.1618969,16.7683256, (ZERO_RESULTS)
+No streetview found for any option: [(-20.1618969, 16.7683256)]
+Other error occurred: No road found for 59.52687035371086,147.92369203943846 (ZERO_RESULTS)
+No road found for 59.52687035371086,147.92369203943846
+Other error occurred: No road found for -67.9893130681303,134.1954500863136 (ZERO_RESULTS)
+No road found for -67.9893130681303,134.1954500863136
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 30.5325159,18.2359878, (ZERO_RESULTS)
+No streetview found for any option: [(30.5325159, 18.2359878)]
+Other error occurred: No road found for 10.486635168300916,164.0993364337773 (ZERO_RESULTS)
+No road found for 10.486635168300916,164.0993364337773
+Other error occurred: No road found for -50.75475097517267,25.061117550407428 (ZERO_RESULTS)
+No road found for -50.75475097517267,25.061117550407428
+Other error occurred: No road found for 73.49890842010103,70.05999258677157 (ZERO_RESULTS)
+No road found for 73.49890842010103,70.05999258677157
+Other error occurred: No road found for -40.04472229677912,159.5468045810362 (ZERO_RESULTS)
+No road found for -40.04472229677912,159.5468045810362
+Other error occurred: No road found for -0.7679950870638356,15.537993615967494 (ZERO_RESULTS)
+No road found for -0.7679950870638356,15.537993615967494
+Other error occurred: No road found for 41.53928537743272,159.1286792501242 (ZERO_RESULTS)
+No road found for 41.53928537743272,159.1286792501242
+Other error occurred: No road found for -74.06064119417816,75.11620993011421 (ZERO_RESULTS)
+No road found for -74.06064119417816,75.11620993011421
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 49.361703,24.0659703, (ZERO_RESULTS)
+No streetview found for any option: [(49.361703, 24.0659703)]
+Other error occurred: No road found for -8.962022554295103,164.36546897256946 (ZERO_RESULTS)
+No road found for -8.962022554295103,164.36546897256946
+Other error occurred: No road found for -32.0839512374929,18.2512961478966 (ZERO_RESULTS)
+No road found for -32.0839512374929,18.2512961478966
+Other error occurred: No road found for 69.26502635707483,131.80695684362723 (ZERO_RESULTS)
+No road found for 69.26502635707483,131.80695684362723
+Other error occurred: No road found for -58.32748085426968,149.84358896542383 (ZERO_RESULTS)
+No road found for -58.32748085426968,149.84358896542383
+Other error occurred: No road found for 18.67399487695439,16.21058701605347 (ZERO_RESULTS)
+No road found for 18.67399487695439,16.21058701605347
+Other error occurred: No road found for 22.486491327264886,163.39821788801243 (ZERO_RESULTS)
+No road found for 22.486491327264886,163.39821788801243
+Other error occurred: No road found for -61.70696969545326,33.62767925870911 (ZERO_RESULTS)
+No road found for -61.70696969545326,33.62767925870911
+Other error occurred: No road found for 66.54266925742012,41.156315145455416 (ZERO_RESULTS)
+No road found for 66.54266925742012,41.156315145455416
+Other error occurred: No road found for -28.335437900122017,162.6377661904315 (ZERO_RESULTS)
+No road found for -28.335437900122017,162.6377661904315
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -12.8033537,15.6195589, (ZERO_RESULTS)
+No streetview found for any option: [(-12.8033537, 15.6195589)]
+Other error occurred: No road found for 53.031513014876445,154.26367813752375 (ZERO_RESULTS)
+No road found for 53.031513014876445,154.26367813752375
+Other error occurred: No road found for -72.91226898879545,117.65974370721133 (ZERO_RESULTS)
+No road found for -72.91226898879545,117.65974370721133
+Other error occurred: No road found for 37.90392875387269,19.300323205031564 (ZERO_RESULTS)
+No road found for 37.90392875387269,19.300323205031564
+Other error occurred: No road found for 3.070643957771399,164.84551197159422 (ZERO_RESULTS)
+No road found for 3.070643957771399,164.84551197159422
+Other error occurred: No road found for -43.8528072786212,21.118377983519547 (ZERO_RESULTS)
+No road found for -43.8528072786212,21.118377983519547
+Other error occurred: No road found for 74.90066413451538,96.85075395438469 (ZERO_RESULTS)
+No road found for 74.90066413451538,96.85075395438469
+Other error occurred: No road found for -47.3121878294794,157.54988118879118 (ZERO_RESULTS)
+No road found for -47.3121878294794,157.54988118879118
+Other error occurred: No road found for 6.6791921300667525,15.14135244065004 (ZERO_RESULTS)
+No road found for 6.6791921300667525,15.14135244065004
+Other error occurred: No road found for 34.41057408454727,161.73999575996734 (ZERO_RESULTS)
+No road found for 34.41057408454727,161.73999575996734
+Other error occurred: No road found for -71.07204214817453,52.4305309902961 (ZERO_RESULTS)
+No road found for -71.07204214817453,52.4305309902961
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 56.4297361,27.7027889, (ZERO_RESULTS)
+No streetview found for any option: [(56.4297361, 27.7027889)]
+Other error occurred: No road found for -16.41850169613351,164.4148761219364 (ZERO_RESULTS)
+No road found for -16.41850169613351,164.4148761219364
+Other error occurred: No road found for -24.81468933040965,16.45765665950431 (ZERO_RESULTS)
+No road found for -24.81468933040965,16.45765665950431
+Other error occurred: No road found for 63.85988890308836,144.52711225775346 (ZERO_RESULTS)
+No road found for 63.85988890308836,144.52711225775346
+Other error occurred: No road found for -64.9515855911366,142.92420531915423 (ZERO_RESULTS)
+No road found for -64.9515855911366,142.92420531915423
+Other error occurred: No road found for 26.117211792981216,16.56016365772927 (ZERO_RESULTS)
+No road found for 26.117211792981216,16.56016365772927
+Other error occurred: No road found for 15.125204926774812,164.63827327672183 (ZERO_RESULTS)
+No road found for 15.125204926774812,164.63827327672183
+Other error occurred: No road found for -55.30158782661247,26.533509239352647 (ZERO_RESULTS)
+No road found for -55.30158782661247,26.533509239352647
+Other error occurred: No road found for 72.02896606429958,55.251142136567914 (ZERO_RESULTS)
+No road found for 72.02896606429958,55.251142136567914
+Other error occurred: No road found for -35.7378402158703,161.7591502162997 (ZERO_RESULTS)
+No road found for -35.7378402158703,161.7591502162997
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -5.378072599999999,14.7854717, (ZERO_RESULTS)
+No streetview found for any option: [(-5.378072599999999, 14.7854717)]
+Other error occurred: No road found for 46.16627145537609,158.57622997574407 (ZERO_RESULTS)
+No road found for 46.16627145537609,158.57622997574407
+Other error occurred: No road found for -75.40329808960897,91.95445082218578 (ZERO_RESULTS)
+No road found for -75.40329808960897,91.95445082218578
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 45.2226767,20.9659505, (ZERO_RESULTS)
+No streetview found for any option: [(45.2226767, 20.9659505)]
+Other error occurred: No road found for -4.386110658721549,165.3222235285336 (ZERO_RESULTS)
+No road found for -4.386110658721549,165.3222235285336
+Other error occurred: No road found for -36.73990506833694,18.302069199689946 (ZERO_RESULTS)
+No road found for -36.73990506833694,18.302069199689946
+Other error occurred: No road found for 72.74755142945573,122.43422824694 (ZERO_RESULTS)
+No road found for 72.74755142945573,122.43422824694
+Other error occurred: No road found for -54.47049020123905,154.48256327513536 (ZERO_RESULTS)
+No road found for -54.47049020123905,154.48256327513536
+Other error occurred: No road found for 14.150023329091363,14.999015438631423 (ZERO_RESULTS)
+No road found for 14.150023329091363,14.999015438631423
+Other error occurred: No road found for 27.147274020083614,163.66280125330982 (ZERO_RESULTS)
+No road found for 27.147274020083614,163.66280125330982
+Other error occurred: No road found for -65.9774663919783,37.6834461652103 (ZERO_RESULTS)
+No road found for -65.9774663919783,37.6834461652103
+Other error occurred: No road found for 63.24106094411768,33.50274889489395 (ZERO_RESULTS)
+No road found for 63.24106094411768,33.50274889489395
+Other error occurred: No road found for -23.88218415097678,164.18635605525444 (ZERO_RESULTS)
+No road found for -23.88218415097678,164.18635605525444
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: -17.4566376,15.1455631, (ZERO_RESULTS)
+No streetview found for any option: [(-17.4566376, 15.1455631)]
+Other error occurred: No road found for 57.562807347721446,152.52435821177872 (ZERO_RESULTS)
+No road found for 57.562807347721446,152.52435821177872
+Other error occurred: No road found for -70.88909028520362,131.0851326815339 (ZERO_RESULTS)
+No road found for -70.88909028520362,131.0851326815339
+Other error occurred: No road found for 33.54908947166886,17.2646145538598 (ZERO_RESULTS)
+No road found for 33.54908947166886,17.2646145538598
+Other error occurred: No road found for 7.699704324149974,165.54196059860487 (ZERO_RESULTS)
+No road found for 7.699704324149974,165.54196059860487
+Other error occurred: No road found for -48.478894646441724,21.79508488121897 (ZERO_RESULTS)
+No road found for -48.478894646441724,21.79508488121897
+Other error occurred: No road found for 75.53208182821373,78.83150140260129 (ZERO_RESULTS)
+No road found for 75.53208182821373,78.83150140260129
+Other error occurred: No road found for -43.10270811901203,160.35343887747877 (ZERO_RESULTS)
+No road found for -43.10270811901203,160.35343887747877
+Other error occurred: No road found for 2.0836071698297403,14.241508985638736 (ZERO_RESULTS)
+No road found for 2.0836071698297403,14.241508985638736
+Other error occurred: No road found for 39.07147242280778,161.6201333964125 (ZERO_RESULTS)
+No road found for 39.07147242280778,161.6201333964125
+Other error occurred: No road found for -74.24839905974089,63.78000948641121 (ZERO_RESULTS)
+No road found for -74.24839905974089,63.78000948641121
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 52.4624193,23.5600787, (ZERO_RESULTS)
+No streetview found for any option: [(52.4624193, 23.5600787)]
+Other error occurred: No road found for -11.869642230676408,165.55118515656494 (ZERO_RESULTS)
+No road found for -11.869642230676408,165.55118515656494
+Other error occurred: No road found for -29.483799793196713,16.24073996368799 (ZERO_RESULTS)
+No road found for -29.483799793196713,16.24073996368799
+Other error occurred: No road found for 68.04860297101757,139.64602988721268 (ZERO_RESULTS)
+No road found for 68.04860297101757,139.64602988721268
+Other error occurred: No road found for -61.43184503046201,149.62631520769213 (ZERO_RESULTS)
+No road found for -61.43184503046201,149.62631520769213
+Other error occurred: No road found for 21.631862044238314,15.117296487671426 (ZERO_RESULTS)
+No road found for 21.631862044238314,15.117296487671426
+Other error occurred: No road found for 19.78726651490739,165.0929069014787 (ZERO_RESULTS)
+No road found for 19.78726651490739,165.0929069014787
+Other error occurred: No road found for -59.81243315649288,28.592338288468728 (ZERO_RESULTS)
+No road found for -59.81243315649288,28.592338288468728
+Other error occurred: No road found for 69.53454396212474,43.354731287554316 (ZERO_RESULTS)
+No road found for 69.53454396212474,43.354731287554316
+Other error occurred: No road found for -31.339967261390434,163.63731268758372 (ZERO_RESULTS)
+No road found for -31.339967261390434,163.63731268758372
+Other error occurred: No road found for -10.024836231538556,14.142231003737606 (ZERO_RESULTS)
+No road found for -10.024836231538556,14.142231003737606
+Other error occurred: No road found for 50.7897884380787,157.75818800743696 (ZERO_RESULTS)
+No road found for 50.7897884380787,157.75818800743696
+Other error occurred: No road found for -75.27599473728031,110.31673930653827 (ZERO_RESULTS)
+No road found for -75.27599473728031,110.31673930653827
+Other error occurred: No road found for 40.95270055964223,18.429371560696858 (ZERO_RESULTS)
+No road found for 40.95270055964223,18.429371560696858
+Other error occurred: No road found for 0.22755137927486765,166.16954210454884 (ZERO_RESULTS)
+No road found for 0.22755137927486765,166.16954210454884
+Other error occurred: No road found for -41.404800349666566,18.496382700280765 (ZERO_RESULTS)
+No road found for -41.404800349666566,18.496382700280765
+Other error occurred: No road found for 75.51898786900398,108.77215560446321 (ZERO_RESULTS)
+No road found for 75.51898786900398,108.77215560446321
+Other error occurred: No road found for -50.40089034539556,158.18150018649683 (ZERO_RESULTS)
+No road found for -50.40089034539556,158.18150018649683
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 9.5642515,13.923297, (ZERO_RESULTS)
+No streetview found for any option: [(9.5642515, 13.923297)]
+Other error occurred: No road found for 31.82384316603054,163.83115178350533 (ZERO_RESULTS)
+No road found for 31.82384316603054,163.83115178350533
+Other error occurred: No road found for -70.05792800843886,43.610115257090875 (ZERO_RESULTS)
+No road found for -70.05792800843886,43.610115257090875
+Other error occurred: No road found for 59.54087516578345,27.628110715492213 (ZERO_RESULTS)
+No road found for 59.54087516578345,27.628110715492213
+Other error occurred: No road found for -19.367595289177018,165.53368249153175 (ZERO_RESULTS)
+No road found for -19.367595289177018,165.53368249153175
+Other error occurred: No road found for -22.12585051196722,14.709805262518785 (ZERO_RESULTS)
+No road found for -22.12585051196722,14.709805262518785
+Other error occurred: No road found for 62.04692727951692,150.07770658431724 (ZERO_RESULTS)
+No road found for 62.04692727951692,150.07770658431724
+Other error occurred: No road found for -68.00409903929068,141.47181275528195 (ZERO_RESULTS)
+No road found for -68.00409903929068,141.47181275528195
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 29.1215752,15.4961849, (ZERO_RESULTS)
+No streetview found for any option: [(29.1215752, 15.4961849)]
+Other error occurred: No road found for 12.356253937087823,166.15365399380102 (ZERO_RESULTS)
+No road found for 12.356253937087823,166.15365399380102
+Other error occurred: No road found for -53.097918777965674,22.775908588227427 (ZERO_RESULTS)
+No road found for -53.097918777965674,22.775908588227427
+Other error occurred: No road found for 74.6531520438112,61.05467606751146 (ZERO_RESULTS)
+No road found for 74.6531520438112,61.05467606751146
+Other error occurred: No road found for -38.77712140623721,162.68400607773668 (ZERO_RESULTS)
+No road found for -38.77712140623721,162.68400607773668
+Other error occurred: No road found for -2.5466536026377864,13.442710659631027 (ZERO_RESULTS)
+No road found for -2.5466536026377864,13.442710659631027
+Other error occurred: No road found for 43.73940056563433,161.34464614878144 (ZERO_RESULTS)
+No road found for 43.73940056563433,161.34464614878144
+Other error occurred: No road found for -76.49294622908161,79.95715791389107 (ZERO_RESULTS)
+No road found for -76.49294622908161,79.95715791389107
+{'copyright': '© Google', 'date': '2021-05', 'location': {'lat': 48.30423865070099, 'lng': 20.24565952011819}, 'pano_id': 'h_fAktttN7n4zoR5xsf53Q', 'status': 'OK'}
+Point 48.30453080102821,20.246289547293838 update to: 48.30420849999999,20.2457597, has streetview!
+Other error occurred: No road found for -7.277041858061972,166.5560447052062 (ZERO_RESULTS)
+No road found for -7.277041858061972,166.5560447052062
+Other error occurred: No road found for -34.1670000863825,16.122360563075734 (ZERO_RESULTS)
+No road found for -34.1670000863825,16.122360563075734
+Other error occurred: No road found for 71.98381399940274,132.38200983928206 (ZERO_RESULTS)
+No road found for 71.98381399940274,132.38200983928206
+Other error occurred: No road found for -57.581860175756454,154.78851565895528 (ZERO_RESULTS)
+No road found for -57.581860175756454,154.78851565895528
+Other error occurred: No road found for 17.090598858098414,13.85640483235257 (ZERO_RESULTS)
+No road found for 17.090598858098414,13.85640483235257
+Other error occurred: No road found for 24.468862681453363,165.4680394622938 (ZERO_RESULTS)
+No road found for 24.468862681453363,165.4680394622938
+Other error occurred: No road found for -64.26161268132984,31.51676493920729 (ZERO_RESULTS)
+No road found for -64.26161268132984,31.51676493920729
+Other error occurred: No road found for 66.33106809518387,34.35913344755612 (ZERO_RESULTS)
+No road found for 66.33106809518387,34.35913344755612
+Other error occurred: No road found for -26.868381153057047,165.24876388410362 (ZERO_RESULTS)
+No road found for -26.868381153057047,165.24876388410362
+Other error occurred: No road found for -14.693419151604749,13.569269972662722 (ZERO_RESULTS)
+No road found for -14.693419151604749,13.569269972662722
+Other error occurred: No road found for 55.40205004347547,156.58741689769843 (ZERO_RESULTS)
+No road found for 55.40205004347547,156.58741689769843
+Other error occurred: No road found for -73.70449498041364,126.73988535747118 (ZERO_RESULTS)
+No road found for -73.70449498041364,126.73988535747118
+Other error occurred: No road found for 36.578803066257606,16.2943513680885 (ZERO_RESULTS)
+No road found for 36.578803066257606,16.2943513680885
+Other error occurred: No road found for 4.8730381361429265,166.92348588956207 (ZERO_RESULTS)
+No road found for 4.8730381361429265,166.92348588956207
+Other error occurred: No road found for -46.07476155664469,18.861451194158683 (ZERO_RESULTS)
+No road found for -46.07476155664469,18.861451194158683
+Other error occurred: No road found for 77.10164313893365,90.20269506257286 (ZERO_RESULTS)
+No road found for 77.10164313893365,90.20269506257286
+Other error occurred: No road found for -46.174390448370204,161.17306304236757 (ZERO_RESULTS)
+No road found for -46.174390448370204,161.17306304236757
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 4.9648088,12.9836732, (ZERO_RESULTS)
+No streetview found for any option: [(4.9648088, 12.9836732)]
+Other error occurred: No road found for 36.5128830076026,163.89757361018866 (ZERO_RESULTS)
+No road found for 36.5128830076026,163.89757361018866
+Other error occurred: No road found for -73.79549787024327,52.59248845452372 (ZERO_RESULTS)
+No road found for -73.79549787024327,52.59248845452372
+{'copyright': '© Google', 'date': '2019-07', 'location': {'lat': 55.56743179596543, 'lng': 23.06936761631835}, 'pano_id': 'yW9t_7USFOrM_KsDBBG-aA', 'status': 'OK'}
+Point 55.56586393541996,23.07616977013774 update to: 55.5673906,23.0694017, has streetview!
+Other error occurred: No road found for -14.801971738049621,166.71630595580544 (ZERO_RESULTS)
+No road found for -14.801971738049621,166.71630595580544
+Other error occurred: No road found for -26.8158831502175,14.373300791716332 (ZERO_RESULTS)
+No road found for -26.8158831502175,14.373300791716332
+Other error occurred: No road found for 66.45015945191965,146.5553414404391 (ZERO_RESULTS)
+No road found for 66.45015945191965,146.5553414404391
+Other error occurred: No road found for -64.54282638567916,149.23921499383684 (ZERO_RESULTS)
+No road found for -64.54282638567916,149.23921499383684
+Other error occurred: No road found for 24.60923733141415,14.028641726699991 (ZERO_RESULTS)
+No road found for 24.60923733141415,14.028641726699991
+Other error occurred: No road found for 17.035828774182733,166.6900017129029 (ZERO_RESULTS)
+No road found for 17.035828774182733,166.6900017129029
+Other error occurred: No road found for -57.70066621531514,24.17139629982649 (ZERO_RESULTS)
+No road found for -57.70066621531514,24.17139629982649
+Other error occurred: No road found for 72.48190045912,46.43632444960571 (ZERO_RESULTS)
+No road found for 72.48190045912,46.43632444960571
+Other error occurred: No road found for -34.360182924852445,164.64606038595937 (ZERO_RESULTS)
+No road found for -34.360182924852445,164.64606038595937
+Other error occurred: No road found for -7.2060888998878365,12.730256295936183 (ZERO_RESULTS)
+No road found for -7.2060888998878365,12.730256295936183
+Other error occurred: No road found for 48.41033461429759,160.87947217989426 (ZERO_RESULTS)
+No road found for 48.41033461429759,160.87947217989426
+Other error occurred: No road found for -77.29123654105081,100.2850585318157 (ZERO_RESULTS)
+No road found for -77.29123654105081,100.2850585318157
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 44.0202337,17.5473353, (ZERO_RESULTS)
+No streetview found for any option: [(44.0202337, 17.5473353)]
+Other error occurred: No road found for -2.647674106901343,167.45112988634583 (ZERO_RESULTS)
+No road found for -2.647674106901343,167.45112988634583
+Other error occurred: No road found for -38.86111758801915,16.110564062458916 (ZERO_RESULTS)
+No road found for -38.86111758801915,16.110564062458916
+Other error occurred: No road found for 75.44921012956483,121.2037782175995 (ZERO_RESULTS)
+No road found for 75.44921012956483,121.2037782175995
+Other error occurred: No road found for -53.50182357904523,158.8186730807211 (ZERO_RESULTS)
+No road found for -53.50182357904523,158.8186730807211
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 12.4997132,12.7482586, (ZERO_RESULTS)
+No streetview found for any option: [(12.4997132, 12.7482586)]
+Other error occurred: No road found for 29.166518334047446,165.76628392143795 (ZERO_RESULTS)
+No road found for 29.166518334047446,165.76628392143795
+Other error occurred: No road found for -68.60379026702802,35.79999397049233 (ZERO_RESULTS)
+No road found for -68.60379026702802,35.79999397049233
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 62.6612543,27.6486392, (ZERO_RESULTS)
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 62.66069049999999,27.6497689, (ZERO_RESULTS)
+No streetview found for any option: [(62.6612543, 27.6486392), (62.66069049999999, 27.6497689)]
+Other error occurred: No road found for -22.3364313765885,166.64601866182312 (ZERO_RESULTS)
+No road found for -22.3364313765885,166.64601866182312
+Other error occurred: No road found for -19.38301251933212,13.067628640539716 (ZERO_RESULTS)
+No road found for -19.38301251933212,13.067628640539716
+Other error occurred: No road found for 59.991857389784414,154.92216374303268 (ZERO_RESULTS)
+No road found for 59.991857389784414,154.92216374303268
+Other error occurred: No road found for -71.03738703036215,139.42234323309185 (ZERO_RESULTS)
+No road found for -71.03738703036215,139.42234323309185
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 32.1346862,14.5020065, (ZERO_RESULTS)
+No streetview found for any option: [(32.1346862, 14.5020065)]
+Other error occurred: No road found for 9.545231055247703,167.59754995151013 (ZERO_RESULTS)
+No road found for 9.545231055247703,167.59754995151013
+Other error occurred: No road found for -50.745515300426234,19.43995376042388 (ZERO_RESULTS)
+No road found for -50.745515300426234,19.43995376042388
+Other error occurred: No road found for 77.04211467011888,69.26086995148897 (ZERO_RESULTS)
+No road found for 77.04211467011888,69.26086995148897
+Other error occurred: No road found for -41.82935230170091,163.62927870514648 (ZERO_RESULTS)
+No road found for -41.82935230170091,163.62927870514648
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 0.3353801,12.1369149, (ZERO_RESULTS)
+No streetview found for any option: [(0.3353801, 12.1369149)]
+Other error occurred: No road found for 41.21133883501002,163.8512645914041 (ZERO_RESULTS)
+No road found for 41.21133883501002,163.8512645914041
+Other error occurred: No road found for -76.8839394767452,66.50836430057939 (ZERO_RESULTS)
+No road found for -76.8839394767452,66.50836430057939
+{'status': 'ZERO_RESULTS'}
+Not street view for coords: 51.3948535,19.4903515, (ZERO_RESULTS)
+No streetview found for any option: [(51.3948535, 19.4903515)]
+Other error occurred: No road found for -10.19373427553977,167.76371961892693 (ZERO_RESULTS)
+No road found for -10.19373427553977,167.76371961892693
+Other error occurred: No road found for -31.520399230892576,14.113256610155446 (ZERO_RESULTS)
+No road found for -31.520399230892576,14.113256610155446
+Other error occurred: No road found for 70.71002667211435,141.28716637519622 (ZERO_RESULTS)
+No road found for 70.71002667211435,141.28716637519622
+Other error occurred: No road found for -60.70387223978651,155.05273068745595 (ZERO_RESULTS)
+No road found for -60.70387223978651,155.05273068745595
+Other error occurred: No road found for 20.0512026368194,12.722411857552315 (ZERO_RESULTS)
+No road found for 20.0512026368194,12.722411857552315
+Other error occurred: No road found for 21.734530862481975,167.15864515791785 (ZERO_RESULTS)
+No road found for 21.734530862481975,167.15864515791785
+Other error occurred: No road found for -62.273152589682844,26.16561416761949 (ZERO_RESULTS)
+No road found for -62.273152589682844,26.16561416761949
+Other error occurred: No road found for 69.41680747638685,35.59644809236681 (ZERO_RESULTS)
+No road found for 69.41680747638685,35.59644809236681
+Other error occurred: No road found for -29.87020539993609,166.31866658167723 (ZERO_RESULTS)
+No road found for -29.87020539993609,166.31866658167723
+Other error occurred: No road found for -11.889927552262588,12.091718010159981 (ZERO_RESULTS)
+No road found for -11.889927552262588,12.091718010159981
+Other error occurred: No road found for 53.07961832375902,160.17092353845527 (ZERO_RESULTS)
+No road found for 53.07961832375902,160.17092353845527
+Other error occurred: No road found for -76.37719909454516,120.49272613422427 (ZERO_RESULTS)
+No road found for -76.37719909454516,120.49272613422427
+Other error occurred: No road found for 39.62113924430072,15.302473387248684 (ZERO_RESULTS)
+No road found for 39.62113924430072,15.302473387248684
+Other error occurred: No road found for 2.0125213001884807,168.25451631808738 (ZERO_RESULTS)
+No road found for 2.0125213001884807,168.25451631808738
+Other error occurred: No road found for -43.563186454780684,16.21944416320443 (ZERO_RESULTS)
+No road found for -43.563186454780684,16.21944416320443
+Other error occurred: No road found for 78.01956016464679,104.07402948281495 (ZERO_RESULTS)
+No road found for 78.01956016464679,104.07402948281495
+Other error occurred: No road found for -49.257242700232425,162.020157036631 (ZERO_RESULTS)
+No road found for -49.257242700232425,162.020157036631
+Other error occurred: No road found for 7.875872890443578,11.755567235139646 (ZERO_RESULTS)
+No road found for 7.875872890443578,11.755567235139646
+Other error occurred: No road found for 33.87717975882946,165.98785038384185 (ZERO_RESULTS)
+No road found for 33.87717975882946,165.98785038384185
+Other error occurred: No road found for -72.75067949116314,42.36488075103901 (ZERO_RESULTS)
+No road found for -72.75067949116314,42.36488075103901
+{'copyright': '© Google', 'date': '2011-06', 'location': {'lat': 58.69319423122651, 'lng': 22.58144743144521}, 'pano_id': 'a6i6gJ4BJTZ2-VbeZwKj-Q', 'status': 'OK'}
+Point 58.684188242839305,22.59089069892301 update to: 58.69319429999999,22.5814173, has streetview!
+Other error occurred: No road found for -17.75466590719376,167.87039223632215 (ZERO_RESULTS)
+No road found for -17.75466590719376,167.87039223632215
+
+Roads:
+[(6.3139395, 36.8949171)]
+[(47.995017, 117.7556378)]
+[(52.790114, 77.2265839)]
+[(-29.8262598, 137.0595416)]
+[(52.7982244, 104.0053262)]
+[(12.5530916, 37.0523965)]
+[(-20.5556887, 141.2379451)]
+[(-13.7662859, 37.1045778)]
+[(44.4599237, 125.0960057)]
+[(50.8727922, 113.5798461)]
+[(-7.6288208, 35.6641839)]
+[(34.1741083, 44.0493719)]
+[(54.66718770000001, 98.1118669)]
+[(8.845935899999999, 35.5682268)]
+[(-17.757909, 36.9260586)]
+[(47.7734439, 121.9542785)]
+[(54.84641629999999, 80.48807169999999)]
+[(-32.68359220000001, 137.491049)]
+[(-1.3602095, 34.7303012)]
+[(35.1125091, 136.0387591), (35.1107517, 136.036491)]
+[(39.8563025, 47.5919221)]
+[(-23.2752465, 142.1062605)]
+[(43.7379825, 128.9305316)]
+[(54.7009203, 73.56686549999999)]
+[(37.05198499999999, 43.8794093)]
+[(-19.7370498, 144.1826102)]
+[(-15.6883666, 34.8713535)]
+[(47.2644984, 126.0977435)]
+[(56.7422643, 84.2933767)]
+[(1.0819501, 33.2019193)]
+[(-9.3812338, 33.3431209)]
+[(50.59978049999999, 122.5665403)]
+[(-32.3531865, 140.8765291)]
+[(-2.9411001, 32.3150094)]
+[(56.2623378, 107.7863391)]
+[(14.1132168, 33.1654939)]
+[(52.6184658, 60.29243819999999)]
+[(-22.4851707, 145.1147773)]
+[(-13.4966376, 32.9234394)]
+[(46.4762549, 130.1415164)]
+[(3.575959, 31.7603755)]
+[(56.36818350000001, 69.5060211)]
+[(-28.92625229999999, 143.5611871)]
+[(36.861696, 40.3371323)]
+[(-17.6501168, 32.7012531)]
+[(50.0342897, 127.03562)]
+[(-35.2268337, 141.2599194)]
+[(-0.441124, 30.7880766)]
+[(42.8149026, 43.9348231)]
+[(55.2367491, 62.3814829)]
+[(-25.3176229, 145.925541)]
+[(59.82636279999999, 93.63604959999999)]
+[(-21.8469251, 32.6792715)]
+[(53.4498578, 123.1396777)]
+[(-31.7914388, 144.154269)]
+[(-4.6013399, 29.99019169999999)]
+[(39.7712892, 40.1720715)]
+[(53.5279385, 55.8461265)]
+[(49.2140379, 131.317351)]
+[(-38.1514628, 141.5462326)]
+[(45.763098, 44.255823)]
+[(57.80050559999999, 64.9580689)]
+[(-28.1760074, 146.6710874)]
+[(36.4594945, 36.8536987)]
+[(51.3252912, 49.9515161)]
+[(52.80945, 127.8431584)]
+[(-34.715993, 144.6381419)]
+[(56.2641162, 57.72965549999999)]
+[(-24.3713087, 148.8782056)]
+[(48.06528489999999, 135.4017853)]
+[(48.6758233, 44.75613269999999)]
+[(-23.9415056, 30.6112054)]
+[(56.2471675, 123.5040542)]
+[(22.457002, 30.14756299999999)]
+[(42.6416633, 141.2158674)]
+[(39.4035397, 36.5541438)]
+[(54.158197, 51.2314061)]
+[(-37.6565057, 145.0475151)]
+[(45.6719442, 40.2567428), (45.6719836, 40.25713229999999), (45.6722259, 40.2582022)]
+[(-28.2498298, 30.842257)]
+[(59.3761745, 118.0012572)]
+[(58.91233210000001, 60.1158119)]
+[(-27.2706007, 149.6788691)]
+[(51.6115066, 45.48639319999999)]
+[(-21.6823826, 28.5023969)]
+[(-34.0084858, 147.9275029)]
+[(-3.7462435, 26.2016168)]
+[(56.9819399, 52.8326424)]
+[(-14.9369779, 26.7800804)]
+[(3.1613851, 25.6665637)]
+[(48.6408763, 40.5322842)]
+[(-26.0530201, 28.5648823)]
+[(61.4526043, 63.0982823)]
+[(-30.1949444, 150.4087188)]
+[(38.8311015, 33.0621386)]
+[(54.5183995, 46.4691126)]
+[(-36.9720188, 148.4598752)]
+[(45.36215, 36.3286184)]
+[(-30.4404739, 28.8327185)]
+[(62.15932309999999, 117.5879036)]
+[(59.7479999, 54.9694655)]
+[(-26.232514, 152.5615753)]
+[(51.623151, 41.0062952)]
+[(-23.7474327, 26.4636229)]
+[(-33.1460701, 151.0973644)]
+[(41.8257178, 32.7148492), (41.8271428, 32.6940178)]
+[(31.17531959999999, 27.7161773)]
+[(48.3724727, 36.3778197)]
+[(-28.1811852, 26.5567624)]
+[(-29.1629096, 153.3831426)]
+[(-9.9092089, 23.4131329)]
+[(38.0672222, 29.63172599999999)]
+[(54.6024062, 41.6971986)]
+[(-32.6346983, 26.8498577)]
+[(4.3347618, 22.0634017)]
+[(51.390834, 36.5852297)]
+[(-25.8468358, 24.4274961)]
+[(-7.2613033, 21.8480515)]
+[(41.0829212, 29.1550673), (41.0829376, 29.1551268), (41.0829777, 29.1551138)]
+[(11.5198793, 21.9408701)]
+[(57.568638, 42.6900491)]
+[(47.86541630000001, 32.3208565)]
+[(54.4337946, 36.9746965)]
+[(14.3399428, 20.802454)]
+[(50.9189611, 32.2732211)]
+[(-27.9146826, 22.3737284)]
+[(40.1546057, 25.7434009)]
+[(9.9651195, 19.6452352)]
+[(57.45777859999999, 37.5563963)]
+[(-20.8174125, 20.5816962)]
+[(58.61411769999999, 141.1800566)]
+[(47.17710109999999, 28.387167)]
+[(63.50953130000001, 45.75626190000001)]
+[(53.9888103, 32.3670805)]
+[(50.2397463, 28.0822028)]
+[(-30.0072582, 20.3419811)]
+[(39.1054722, 22.4433869)]
+[(57.0616923, 32.5261163)]
+[(-22.816576, 18.5096727)]
+[(-3.5803925, 16.883356)]
+[(46.2821079, 24.5965831), (46.2833957, 24.5968308), (46.28445079999999, 24.5966628)]
+[(53.3257842, 27.8440172)]
+[(42.1579723, 21.7108478)]
+[(11.2737375, 16.1560843)]
+[(-20.1618969, 16.7683256)]
+[(30.5325159, 18.2359878)]
+[(49.361703, 24.0659703)]
+[(-12.8033537, 15.6195589)]
+[(56.4297361, 27.7027889)]
+[(-5.378072599999999, 14.7854717)]
+[(45.2226767, 20.9659505)]
+[(-17.4566376, 15.1455631)]
+[(52.4624193, 23.5600787)]
+[(9.5642515, 13.923297)]
+[(29.1215752, 15.4961849)]
+[(48.30420849999999, 20.2457597), (48.3039844, 20.2453973)]
+[(4.9648088, 12.9836732)]
+[(55.5673906, 23.0694017)]
+[(44.0202337, 17.5473353)]
+[(12.4997132, 12.7482586)]
+[(62.6612543, 27.6486392), (62.66069049999999, 27.6497689)]
+[(32.1346862, 14.5020065)]
+[(0.3353801, 12.1369149)]
+[(51.3948535, 19.4903515)]
+[(58.69319429999999, 22.5814173)]
+
+Streetview:
+35.1107517,136.036491
+54.7009203,73.56686549999999
+-38.1514628,141.5462326
+45.763098,44.255823
+48.6758233,44.75613269999999
+-37.6565057,145.0475151
+45.6719442,40.2567428
+62.15932309999999,117.5879036
+-33.1460701,151.0973644
+41.8271428,32.6940178
+54.6024062,41.6971986
+41.0829212,29.1550673
+63.50953130000001,45.75626190000001
+46.2821079,24.5965831
+42.1579723,21.7108478
+48.30420849999999,20.2457597
+55.5673906,23.0694017
+58.69319429999999,22.5814173
