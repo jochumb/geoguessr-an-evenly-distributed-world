@@ -9,13 +9,13 @@ Create a map generated from evenly distributed geo locations, so any area of the
 ## Technical Proof of Concept
 
 1. Evenly Distributed Points on a Sphere
-   - To generate N points distributed mostly evenly on a sphere, I used a Fibonacci sphere / Golden spiral [algorithm](https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere).
+    - To generate N points distributed mostly evenly on a sphere, I used a Fibonacci sphere / Golden spiral [algorithm](https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere).
 2. (x,y,z) to (latitude,longitude)
-   - The generated points have to be translated to geodetic points. The mechanism is described [here](https://en.wikipedia.org/wiki/Geographic_coordinate_conversion#From_ECEF_to_geodetic_coordinates). Example implementation [here](https://stackoverflow.com/questions/56945401/converting-xyz-coordinates-to-longitutde-latitude-in-python).
+    - The generated points have to be translated to geodetic points. The mechanism is described [here](https://en.wikipedia.org/wiki/Geographic_coordinate_conversion#From_ECEF_to_geodetic_coordinates). Example implementation [here](https://stackoverflow.com/questions/56945401/converting-xyz-coordinates-to-longitutde-latitude-in-python).
 3. Find a nearby road
-   - The Google Maps API allows me to do a [Reverse Geocoding lookup](https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding) for a generated coordinate. By specifying a result type of 'street address', 'route', or 'intersection', I can acquire a new coordinate close to the original coordinate but on the road.
+    - The Google Maps API allows me to do a [Reverse Geocoding lookup](https://developers.google.com/maps/documentation/geocoding/requests-reverse-geocoding) for a generated coordinate. By specifying a result type of 'street address', 'route', or 'intersection', I can acquire a new coordinate close to the original coordinate but on the road.
 4. Check for available street view
-   - Using a [Street View Metadata](https://developers.google.com/maps/documentation/streetview/metadata) request to the Google Maps API allows me to check if there's a Street View image on the new road coordinate.
+    - Using a [Street View Metadata](https://developers.google.com/maps/documentation/streetview/metadata) request to the Google Maps API allows me to check if there's a Street View image on the new road coordinate.
 
 ### Test with a sphere of 100 points
 
