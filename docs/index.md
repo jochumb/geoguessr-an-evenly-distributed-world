@@ -94,7 +94,7 @@ Zoomed to Europe, it looks like this:
 
 The map can be played [here](https://www.geoguessr.com/maps/62efb7153313664fc7c78260).
 
-All location street views have been manually adjusted to suit my personal preference.
+All location street views have been manually adjusted (not moved) to suit my personal preference.
 
 ## A Biased Distributed World
 
@@ -106,4 +106,4 @@ It seems the way to combat this would be to have A Curated World oriented toward
 
 Instead of looking for a road with Streetview at the generated point it would be better to look for a Streetview location anywhere within the poligons between the generated points. However, I have not yet been able to figure out how to do a request for the nearest road with Streetview from a certain location, and I haven't thought of another method yet (that also doesn't require lots of Google Maps API requests.) 
 
-While this would give a more even dsitribution I'm not sure if this would improve the Map quality. As areas with lower coverage might up with a lot of locations on the same few roads.
+While this alternate approach would retain more points and possibly give a more even distribution, I'm not sure if this would improve the Map quality. As areas with lower coverage might end up with a lot of locations on the same few roads.
